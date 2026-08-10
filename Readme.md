@@ -113,3 +113,5 @@ allow_delegation=true is allotted to manager agent
 - Hierarchical run selected Eliassen Group -- a substantive listing with concrete requirements -- over the same SynergisticIT postings that appeared in its own search results, correctly avoiding the spam pick that sequential mode selected in a comparable run.
 - In the runs observed, hierarchical mode produced better spam-filtering outcomes than sequential -- but again only one
 
+
+
