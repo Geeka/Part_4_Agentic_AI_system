@@ -1,0 +1,50 @@
+RAHUL MEHTA
+Pune, Maharashtra
+rahul.mehta.mkt@email.com
++91 91234 56780
+linkedin.com/in/rahulmehta-marketing
+
+SUMMARY
+
+Marketing Analyst with 8 months of experience in campaign performance analysis, customer segmentation, and marketing automation. Skilled at turning campaign data into clear recommendations that improve conversion and retention. Comfortable working across SQL, Excel, and marketing analytics platforms.
+
+EDUCATION
+
+Bachelor of Business Administration, Marketing
+Symbiosis Institute of Management Studies, Pune, India
+Jul 2020 to May 2023
+GPA 8.0 of 10
+
+Relevant Coursework: Consumer Behavior, Digital Marketing, Marketing Research, Business Statistics, Brand Management
+
+EXPERIENCE
+
+Marketing Analyst Intern
+BrightWave Digital Pvt Ltd, Pune
+Sep 2024 to Apr 2025
+
+Analyzed performance of 15 plus digital ad campaigns across Google Ads and Meta Ads, identifying underperforming segments and reallocating budget to improve ROAS by 22 percent
+Built customer segmentation models using SQL and Excel to support targeted email campaigns, increasing open rates by 12 percent
+Created weekly performance dashboards in Google Data Studio for stakeholders to track campaign KPIs
+Conducted A/B tests on landing pages and email subject lines, documenting results and recommendations for the marketing team
+Supported the marketing team in preparing monthly reports summarizing customer acquisition cost and lifetime value trends
+
+PROJECTS
+
+Customer Churn Analysis for Subscription App
+Analyzed 6 months of user behavior data to identify the top 5 factors driving subscription cancellations, presenting findings to a mock stakeholder panel
+
+Social Media Sentiment Tracker
+Built a Python script using Tweepy and TextBlob to track sentiment around a sample brand's social mentions over a 30 day period
+
+SKILLS
+
+Analytics Tools: Google Analytics, Google Data Studio, Meta Ads Manager, Google Ads
+Data and Reporting: SQL, Excel, Python (basic), Tableau
+Marketing Platforms: HubSpot, Mailchimp, Hootsuite
+Other: A/B Testing, Customer Segmentation, Campaign Reporting, Presentation Skills
+
+CERTIFICATIONS
+
+Google Analytics Individual Qualification, 2024
+HubSpot Content Marketing Certification, 2024

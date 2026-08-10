@@ -1,0 +1,57 @@
+ANANYA SHARMA
+Hyderabad, Telangana
+ananya.sharma.dev@email.com
++91 90123 45678
+linkedin.com/in/ananyasharma-dev
+github.com/ananya-codes
+
+SUMMARY
+
+Software Engineer with 2 years of experience building and maintaining backend services and REST APIs in a production environment. Strong foundation in Python and Java, with hands-on experience in microservices, relational databases, and CI/CD pipelines. Looking to grow into a mid-level backend or full-stack role.
+
+EDUCATION
+
+Bachelor of Technology in Computer Science and Engineering
+Vasavi College of Engineering, Hyderabad, India
+Aug 2018 to May 2022
+GPA 8.4 of 10
+
+EXPERIENCE
+
+Software Engineer
+Meridian Softworks Pvt Ltd, Hyderabad
+Jul 2023 to Present
+
+Developed and maintained 6 microservices in Python (FastAPI) and Java (Spring Boot) supporting an order management platform serving 50000 plus daily transactions
+Reduced average API response time by 35 percent by optimizing database queries and introducing Redis caching for frequently accessed endpoints
+Built and maintained CI/CD pipelines using GitHub Actions and Docker, cutting deployment time from 40 minutes to 10 minutes
+Wrote unit and integration tests achieving 85 percent code coverage across core services, reducing production incidents by 20 percent
+Collaborated with a team of 6 engineers using Agile Scrum, participating in sprint planning, code reviews, and on call rotations
+
+Software Engineer Intern
+Meridian Softworks Pvt Ltd, Hyderabad
+Jan 2023 to Jun 2023
+
+Built internal tooling in Python to automate manual QA regression checks, saving the QA team approximately 8 hours per week
+Contributed bug fixes and small features to a Java based internal admin dashboard
+
+PROJECTS
+
+Real-Time Order Tracking Service
+Built a Kafka-based event streaming service in Python to provide real-time order status updates to a customer facing web app
+
+Personal Finance Tracker API
+Designed and built a REST API in Spring Boot with PostgreSQL for tracking personal expenses, deployed on AWS EC2 with a CI/CD pipeline
+
+SKILLS
+
+Languages: Python, Java, SQL, JavaScript
+Backend and Frameworks: FastAPI, Spring Boot, Flask, Node.js (basic)
+Databases: PostgreSQL, MySQL, Redis, MongoDB
+DevOps and Cloud: Docker, GitHub Actions, AWS EC2, AWS S3, Kubernetes (basic)
+Other: REST API Design, Microservices, Kafka, Unit Testing, Agile Scrum, Git
+
+CERTIFICATIONS
+
+AWS Certified Developer, Associate, 2024
+Oracle Certified Professional, Java SE 11 Developer, 2023

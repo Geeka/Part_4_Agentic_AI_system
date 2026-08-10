@@ -1,0 +1,56 @@
+PRIYA NARAYANAN
+Bengaluru, Karnataka
+priya.narayanan.ds@email.com
++91 98765 43210
+linkedin.com/in/priyanarayanan-ds
+github.com/priya-ds
+
+SUMMARY
+
+Data Scientist with an MS in Data Science and 6 months of hands on experience building predictive models, automating data pipelines, and delivering insights through visualization. Strong foundation in statistics, machine learning, and Python based analytics. Seeking to apply skills in a data driven, impact focused role.
+
+EDUCATION
+
+Master of Science in Data Science
+Bengaluru Institute of Technology, Bengaluru, India
+Aug 2023 to May 2025
+GPA 8.6 of 10
+
+Relevant Coursework: Machine Learning, Statistical Inference, Deep Learning, Big Data Systems, Data Visualization, NLP, Optimization
+
+Bachelor of Science in Computer Science
+St Xaviers College, Mumbai, India
+Aug 2019 to May 2023
+GPA 8.2 of 10
+
+EXPERIENCE
+
+Data Science Intern
+Nimbus Analytics Pvt Ltd, Bengaluru
+Jan 2025 to Jun 2025
+
+Built a customer churn prediction model using XGBoost achieving 87 percent accuracy, reducing manual review time by 30 percent
+Automated a daily ETL pipeline using Python and SQL, cutting report generation time from 4 hours to 20 minutes
+Designed interactive Power BI dashboards used by 3 client teams to track KPIs in real time
+Collaborated with a cross functional team of 5 to translate business requirements into data models and actionable metrics
+
+PROJECTS
+
+Sentiment Analysis on Product Reviews
+Fine tuned a BERT model to classify over 50000 customer reviews with 91 percent F1 score and deployed it using a Flask API
+
+Retail Demand Forecasting
+Built a time series forecasting model using Prophet and LSTM to predict weekly demand across 200 plus SKUs, improving inventory accuracy by 18 percent
+
+SKILLS
+
+Languages: Python, SQL, R
+Machine Learning and Deep Learning: Scikit learn, XGBoost, TensorFlow, PyTorch, Keras
+Data Tools: Pandas, NumPy, Spark, Airflow
+Visualization: Power BI, Tableau, Matplotlib, Seaborn
+Other: Git, Docker, AWS S3 and EC2, Excel
+
+CERTIFICATIONS
+
+AWS Certified Cloud Practitioner, 2024
+Deep Learning Specialization, DeepLearning.AI, 2024
