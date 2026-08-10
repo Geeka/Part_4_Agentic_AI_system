@@ -1,0 +1,595 @@
+ 'shelf\\n Category growth vs. prior year / plan\\n CustomerP&L summaries\\n '
+ 'Automate data pipelines using Alteryx, Python, or native connector tools.\\n '
+ 'Utilize SQL to query and aggregate customer transaction data from a '
+ 'PostgreSQL database, identifying trends that informed marketing '
+ 'strategies\\n\\n\\n\\nRetail & Syndicated Data Pulls & Analysis '
+ '(25%)\\n\\n\\n\\n Extract and cleanse data from:\\n Retailer portals (Retail '
+ 'Link, Partners Online, VIP, etc.)\\n Syndicated sources (Circana/IRI, '
+ 'Nielsen, SPINS, 84.51\\u00b0/Kroger Precision)\\n Perform '
+ 'period-over-period, plan-vs-actual, and promo lift '
+ 'analy","apply_link":"https://www.ziprecruiter.com/c/Worlds-Finest-Chocolate/Job/Sales-Data-Analyst/-in-Chicago,IL?jid=fdb80840a411d5e5&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"}],"selected_job":{"title":"Search '
+ 'Marketing Analyst","company":"Deinde Financial","location":"Chicago, '
+ 'IL","description":"Growth Marketing Analyst  \\nDeinde Financial (dba '
+ 'Integra Credit) is hiring a Growth Marketing Analyst to drive performance '
+ 'across new customer acquisition channels. This role sits at the center of '
+ 'marketing, analytics, and revenue generation, with responsibility spanning '
+ 'partner channels, direct marketing, and emerging acquisition '
+ 'strategies.\\n\\nAbout the Role\\nYou will own the performance, '
+ 'optimization, and scaling of acquisition efforts across channels including '
+ 'partnerships, and direct mail. This role is designed to develop into a full '
+ 'funnel growth owner over time, with increasing responsibility for channel '
+ 'strategy, testing, and unit economics.\\n\\nAs part of this role, you will '
+ 'leverage automation and agentic AI tools to improve speed,accuracy, and '
+ 'decision making. This includes working with platforms suchas Amazon '
+ 'QuickSight and Amazon SageMaker, and continuously evolvinghow work is '
+ 'executed as automation capabilities expand.\\n\\nThis position reports '
+ 'directly to the Vice President of Marketing and offers direct exposure to '
+ 'executive decision making, forecasting, and growth strategy.\\n\\nJob '
+ 'Responsibilities\\n\\nOwn performance across new customer acquisition '
+ 'channels, including partnerships and direct marketing, with accountability '
+ 'for growth, efficiency, and customer quality\\n\\nAnalyze channel and '
+ 'partner performance to identify trends, risks, and opportunities, and '
+ 'translate findings into clear business recommendations\\n\\nCollaborate '
+ 'cross functionally with Product, Risk, Data '
+ 'Scie","apply_link":"https://www.jobilize.com/job/us-il-chicago-search-marketing-analyst-deinde-financial-hiring-now?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"},"reason_selected":"The '
+ 'role focuses on acquisition channel performance and optimization, directly '
+ 'matching Rahul’s marketing analytics experience and skill set."}')
+
+===== 5 JOBS FOUND =====
+[
+  {
+    "title": "Marketing Specialist - Early Life Strategy",
+    "company": "Verizon",
+    "location": "Rolling Meadows, IL",
+    "description": "When you join Verizon\n\nYou want more out of a career. A place to share your ideas freely \u2014 even if they\u2019re daring or different. Where the true you canlearn, grow, and thrive. At Verizon, we power and empower how people live, work and play by connecting them to what brings them joy. We do what we love \u2014 driving innovation, creativity, and impact in the world. Our V Team is a community of people who anticipate, lead, and believe that listening is where learning begins. In crisis and in celebration, we come together \u2014 lifting our communities and building trust inhow we show up, everywhere & always. Want in? Join the #VTeamLife.\n\nWhat You\u2019ll Be Doing...\n\nAs a Consultant Marketing, Early Life Strategy, you will be responsible for leveraging customer behavioral data and analytics to drive retention strategies. You will analyze detailed customer performance data to uncover strategic opportunities, optimize marketingprogramming, and measure campaign effectiveness to reduce churn and maximize budget efficiency. This position works closely with internal teams to implement data-driven marketing plans, and map customer journeys. You will develop and monitor test plans to evaluate strategic performance and package complex analytical insights into clear, professional narratives for peers and leadership.\n\nResponsibilities Include\n\n\n\nAnalyzing base customer behavioral data and complex data sets to uncover strategic opportunities, identify primary drivers of churn, and inform retention tac",
+    "apply_link": "https://www.linkedin.com/jobs/view/marketing-specialist-early-life-strategy-at-verizon-4450510558?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+  },
+  {
+    "title": "Marketing Inter",
+    "company": "Gorgeous Growth Group",
+    "location": "Anywhere",
+    "description": "Gorgeous Growth LLC is a boutique consulting agency and professional network rooted in ethical and sustainable business practices. Our \u2018Gorgie Method\u2019 guides creators, entrepreneurs, and go-getters through three stages: Set, Scale, Match, supported by our three branches: Knowledge, Network, and Toolkits, creating an ecosystem of growth.\u00a0\n\n\n\n\nWe are Chicago-based and service clients globally. Our mission is to help creators, entrepreneurs, and specialists grow with clarity, connection, and confidence. Through strategic growth support, curated matchmaking, and community-driven support, we simplify the business side of growth, empowering professionals and businesses to scale intentionally, build aligned partnerships, and thrive within Chicagoland and beyond.\n\n\n\n\nWe are seeking driven, high-performinginterns who are ready to gain real-world experience in a dynamic professional environment. We are offering three specialized internships: Social Media Engagement, Development & Communications, and Content Creation & Graphic Design. \n\n\n\n\nTrack 1: Social Media Engagement Intern \n\n\n\n\nRole Summary: The Social Media Engagement Intern is an executive-level support role focused on digital footprint, cross-platform engagement, and grassroots-level public relations and brand management. You will serve as the frontline of our online community, ensuring our brand presence is as polished and efficient asour backend operations while maintaining a community-oriented and active presence.\u00a0\n\n\n\n\nKey",
+    "apply_link": "https://www.linkedin.com/jobs/view/marketing-inter-at-gorgeous-growth-group-4448558755?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+  },
+  {
+    "title": "Remote Lead BI Developer, Marketing Analytics",
+    "company": "Launch Potato",
+    "location": "Chicago, IL",
+    "description": "Launch Potato is seeking a Lead BI Developer to own the reporting infrastructure across multiple verticals, including Credit Cards and Banking. You will partner with Yield, Paid Media, and Account Management to uncover meaningful trends and deliver self\u2011service analytics that drive business decisions.\n\nThe role requires 7+ years in BI/analytics with experience managing end-to-end reporting from data ingestion to dashboards.",
+    "apply_link": "https://www.jobleads.com/us/job/remote-lead-bi-developer-marketing-analytics--chicago--e4bbf29300a50ddb13361cb997f08efc7?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+  },
+  {
+    "title": "Search Marketing Analyst",
+    "company": "Deinde Financial",
+    "location": "Chicago, IL",
+    "description": "Growth Marketing Analyst  \nDeinde Financial (dba Integra Credit) is hiring a Growth Marketing Analyst to drive performance across new customer acquisition channels. This role sits at the center of marketing, analytics, andrevenue generation, with responsibility spanning partner channels, direct marketing, and emerging acquisition strategies.\n\nAbout the Role\nYou will own the performance, optimization, and scaling of acquisition efforts across channels including partnerships, and direct mail. This role is designed to develop into a full funnel growth owner over time, with increasing responsibility for channel strategy, testing, and unit economics.\n\nAs part of this role, you will leverage automation and agentic AI tools to improve speed, accuracy, and decision making. This includes working with platforms such as Amazon QuickSight and Amazon SageMaker, and continuously evolving how work is executed as automation capabilities expand.\n\nThis position reports directly to the Vice President of Marketing and offers direct exposure to executive decision making, forecasting, and growth strategy.\n\nJob Responsibilities\n\nOwn performance across new customer acquisition channels, including partnerships and direct marketing, with accountability for growth, efficiency, and customer quality\n\nAnalyze channel and partner performance to identify trends, risks, and opportunities, and translate findings into clear business recommendations\n\nCollaborate cross functionally with Product, Risk, Data Scie",
+    "apply_link": "https://www.jobilize.com/job/us-il-chicago-search-marketing-analyst-deinde-financial-hiring-now?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+  },
+  {
+    "title": "Sales Data Analyst",
+    "company": "World's Finest Chocolate",
+    "location": "Chicago, IL",
+    "description": "REQUIRED: Nielsen/Circana (IRI) Experience\n\n\n\nPOSITION OVERVIEW\n\n\nWorld's Finest Chocolate is seeking a Sales Data Analyst to support our North American retail sales organization. This high-visibility role partners with national account teams (Walmart, Target, Costco, Kroger, etc.) to transform raw sales, syndicated, and trade-spend data into actionable insights via dashboards, ad-hoc reporting, ROI models, and trade-promotion analysis, while driving cross-functional projects from ideation to execution. The ideal candidate is a self-starter with strong Excel/SQL skills, earlyexperience in Tableau or Power BI, project management discipline (timelines, stakeholders, deliverables), and a passion for CPG retail metrics.\n\n\n\nKEY RESPONSIBILITIES\n\n\n\nDashboard Development & Maintenance (30%)\n\n\n\n Build and refresh weekly/monthly Tableau (or Power BI) dashboards tracking:\n POS velocity, ACV distribution, % promo, share of shelf\n Category growth vs. prior year / plan\n Customer P&L summaries\n Automate data pipelines using Alteryx, Python, or native connector tools.\n Utilize SQL to query and aggregate customer transaction data from a PostgreSQL database, identifying trends that informed marketing strategies\n\n\n\nRetail & Syndicated Data Pulls & Analysis (25%)\n\n\n\n Extract and cleansedata from:\n Retailer portals (Retail Link, Partners Online,VIP, etc.)\n Syndicated sources (Circana/IRI, Nielsen, SPINS, 84.51\u00b0/Kroger Precision)\n Perform period-over-period,plan-vs-actual, and promo lift analy",
+    "apply_link": "https://www.ziprecruiter.com/c/Worlds-Finest-Chocolate/Job/Sales-Data-Analyst/-in-Chicago,IL?jid=fdb80840a411d5e5&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+  }
+]
+
+Email successfully sent to candidate@example.com
+------------------------------------------------
+-------------------------------------------------
+-------------- HIERARCHICAL CREW ---------------
+------------------------------------------------
+------------------------------------------------
+╭──────────────────── 🤖 Agent Started ─────────────────────╮
+│                                                           │
+│  Agent: Manager Agent                                     │
+│                                                           │
+│  Task: Read the resume and extract the candidate's        │
+│  skills, experience level, and seniority. Derive a        │
+│  realistic job search query matching their actual level   │
+│  (e.g. 'junior data analyst', not 'senior data            │
+│  scientist').                                             │
+│                                                           │
+│  Return ONLY JSON in this exact shape, no extra text:     │
+│  "search_query": "...", "summary": "1-2 sentence honest   │
+│  summary of the candidate"}Also pass the candidates       │
+│  actual resume text to the next task via context          │
+│                                                           │
+╰───────────────────────────────────────────────────────────╯
+
+Tool get_resume executed with result: RAHUL MEHTA
+Pune, Maharashtra
+rahul.mehta.mkt@email.com
++91 91234 56780
+linkedin.com/in/rahulmehta-marketing
+
+SUMMARY
+
+Marketing Analyst with 8 months of experience in campaign performance analysis, c...
+[TOOL CALL] {"tool": "get_resume", "arguments": {}, "agent_role": "Manager Agent"}
+[Finalize] todos_count=0, todos_with_results=0
+╭────────────────── ✅ Agent Final Answer ──────────────────╮
+│                                                           │
+│  Agent: Manager Agent                                     │
+│                                                           │
+│  Final Answer:                                            │
+│  {"name":"Rahul Mehta","skills":["Google                  │
+│  Analytics","Google Data Studio","Meta Ads                │
+│  Manager","Google Ads","SQL","Excel","Python              │
+│  (basic)","Tableau","HubSpot","Mailchimp","Hootsuite","A  │
+│  /B Testing","Customer Segmentation","Campaign            │
+│  Reporting","Presentation                                 │
+│  Skills"],"experience_months":8,"seniority":"Junior","se  │
+│  arch_query":"junior marketing analyst","summary":"Rahul  │
+│  Mehta is a junior marketing analyst with 8 months of     │
+│  experience in campaign performance analysis, customer    │
+│  segmentation, and marketing automation, proficient in    │
+│  SQL, Excel, and various analytics                        │
+│  platforms.","resume_text":"RAHUL MEHTA\nPune,            │
+│  Maharashtra\nrahul.mehta.mkt@email.com\n+91 91234        │
+│  56780\nlinkedin.com/in/rahulmehta-marketing\n\nSUMMARY\  │
+│  n\nMarketing Analyst with 8 months of experience in      │
+│  campaign performance analysis, customer segmentation,    │
+│  and marketing automation. Skilled at turning campaign    │
+│  data into clear recommendations that improve conversion  │
+│  and retention. Comfortable working across SQL, Excel,    │
+│  and marketing analytics                                  │
+│  platforms.\n\nEDUCATION\n\nBachelor of Business          │
+│  Administration, Marketing\nSymbiosis Institute of        │
+│  Management Studies, Pune, India\nJul 2020 to May         │
+│  2023\nGPA 8.0 of 10\n\nRelevant Coursework: Consumer     │
+│  Behavior, Digital Marketing, Marketing Research,         │
+│  Business Statistics, Brand                               │
+│  Management\n\nEXPERIENCE\n\nMarketing Analyst            │
+│  Intern\nBrightWave Digital Pvt Ltd, Pune\nSep 2024 to    │
+│  Apr 2025\n\nAnalyzed performance of 15 plus digital ad   │
+│  campaigns across Google Ads and Meta Ads, identifying    │
+│  underperforming segments and reallocating budget to      │
+│  improve ROAS by 22 percent\nBuilt customer segmentation  │
+│  models using SQL and Excel to support targeted email     │
+│  campaigns, increasing open rates by 12 percent\nCreated  │
+│  weekly performance dashboards in Google Data Studio for  │
+│  stakeholders to track campaign KPIs\nConducted A/B       │
+│  tests on landing pages and email subject lines,          │
+│  documenting results and recommendations for the          │
+│  marketing team\nSupported the marketing team in          │
+│  preparing monthly reports summarizing customer           │
+│  acquisition cost and lifetime value                      │
+│  trends\n\nPROJECTS\n\nCustomer Churn Analysis for        │
+│  Subscription App\nAnalyzed 6 months of user behavior     │
+│  data to identify the top 5 factors driving subscription  │
+│  cancellations, presenting findings to a mock             │
+│  stakeholder panel\n\nSocial Media Sentiment              │
+│  Tracker\nBuilt a Python script using Tweepy and          │
+│  TextBlob to track sentiment around a sample brand's      │
+│  social mentions over a 30 day                            │
+│  period\n\nSKILLS\n\nAnalytics Tools: Google Analytics,   │
+│  Google Data Studio, Meta Ads Manager, Google Ads\nData   │
+│  and Reporting: SQL, Excel, Python (basic),               │
+│  Tableau\nMarketing Platforms: HubSpot, Mailchimp,        │
+│  Hootsuite\nOther: A/B Testing, Customer Segmentation,    │
+│  Campaign Reporting, Presentation                         │
+│  Skills\n\nCERTIFICATIONS\n\nGoogle Analytics Individual  │
+│  Qualification, 2024\nHubSpot Content Marketing           │
+│  Certification, 2024"}                                    │
+│                                                           │
+╰───────────────────────────────────────────────────────────╯
+
+╭──────────────────── 🤖 Agent Started ─────────────────────╮
+│                                                           │
+│  Agent: Manager Agent                                     │
+│                                                           │
+│  Task: Search for real, current job postings matching     │
+│  the query from the analyst. Check for hiring spam --     │
+│  watch for generic staffing-mill listings, repeated       │
+│  marketing copy, vague or missing requirements, and       │
+│  postings that don't name a real hiring company. Then     │
+│  use your judgement to pick the ONE job which best fits   │
+│  the candidate's actual skills and experience level.      │
+│                                                           │
+╰───────────────────────────────────────────────────────────╯
+
+[TOOL CALL] {"tool": "job_search", "arguments": {"query": "junior marketing analyst"}, "agent_role": "Manager Agent"}
+Tool job_search executed with result: [{"title": "Marketing Specialist - Early Life Strategy", "company": "Verizon", "location": "Rolling Meadows, IL", "description": "When you join Verizon\n\nYou want more out of a career. A place to sha...
+[Finalize] todos_count=0, todos_with_results=0
+╭────────────────── ✅ Agent Final Answer ──────────────────╮
+│                                                           │
+│  Agent: Manager Agent                                     │
+│                                                           │
+│  Final Answer:                                            │
+│  {"search_results":[{"title":"Marketing Specialist -      │
+│  Early Life                                               │
+│  Strategy","company":"Verizon","location":"Rolling        │
+│  Meadows, IL","description":"When you join                │
+│  Verizon\n\nYou want more out of a career. A place to     │
+│  share your ideas freely \u2014 even if they\u2019re      │
+│  daring or different. Where the true you can learn,       │
+│  grow, and thrive. At Verizon, we power and empower how   │
+│  people live, work and play by connecting them to         │
+│  a...","apply_link":"https://www.linkedin.com/jobs/view/  │
+│  marketing-specialist-early-life-strategy-at-verizon-445  │
+│  0510558?utm_campaign=google_jobs_apply&utm_source=googl  │
+│  e_jobs_apply&utm_medium=organic"},{"title":"Marketing    │
+│  Inter","company":"Gorgeous Growth                        │
+│  Group","location":"Anywhere","description":"Gorgeous     │
+│  Growth LLC is a boutique consulting agency and           │
+│  professional network rooted in ethical and sustainable   │
+│  business practices. Our \u2018Gorgie Method\u2019        │
+│  guides creators, entrepreneurs, and go-getters through   │
+│  three stages: Set, Scale, Match, supported by our three  │
+│  branches: Knowledge, Network, and Toolkits, creating an  │
+│  ecosystem of growth.\u00a0\n\n\n\nWe are Chicago-based   │
+│  and service clients globally. Our mission is to help     │
+│  creators, entrepreneurs, and specialists grow with       │
+│  clarity, connection, and confidence. Through strategic   │
+│  growth support, curated matchmaking, and                 │
+│  community-driven support, we simplify the business side  │
+│  of growth, empowering professionals and businesses to    │
+│  scale intentionally, build aligned partnerships, and     │
+│  thrive within Chicagoland and beyond.\n\n\n\n\nWe are    │
+│  seeking driven, high-performing interns who are ready    │
+│  to gain real-world experience in a dynamic professional  │
+│  environment. We are offering three specialized           │
+│  internships: Social Media Engagement, Development &      │
+│  Communications, and Content Creation & Graphic Design.   │
+│  \n\n\n\n\nTrack 1: Social Media Engagement Intern        │
+│  \n\n\n\n\nRole Summary: The Social Media Engagement      │
+│  Intern is an executive-level support role focused on     │
+│  digital footprint, cross-platform engagement, and        │
+│  grassroots-level public relations and brand management.  │
+│  You will serve as the frontline of our online            │
+│  community, ensuring our brand presence is as polished    │
+│  and efficient as our backend operations while            │
+│  maintaining a community-oriented and active              │
+│  presence.\u00a0\n\n\n\n\nKey","apply_link":"https://www  │
+│  .linkedin.com/jobs/view/marketing-inter-at-gorgeous-gro  │
+│  wth-group-4448558755?utm_campaign=google_jobs_apply&utm  │
+│  _source=google_jobs_apply&utm_medium=organic"},{"title"  │
+│  :"Remote Lead BI Developer, Marketing                    │
+│  Analytics","company":"Launch                             │
+│  Potato","location":"Chicago, IL","description":"Launch   │
+│  Potato is seeking a Lead BI Developer to own the         │
+│  reporting infrastructure across multiple verticals,      │
+│  including Credit Cards and Banking. You will partner     │
+│  with Yield, Paid Media, and Account Management to        │
+│  uncover meaningful trends and deliver self\u2011service  │
+│  analytics that drive business decisions.\n\nThe role     │
+│  requires 7+ years in BI/analytics with experience        │
+│  managing end-to-end reporting from data ingestion to     │
+│  dashboards.","apply_link":"https://www.jobleads.com/us/  │
+│  job/remote-lead-bi-developer-marketing-analytics--chica  │
+│  go--e4bbf29300a50ddb13361cb997f08efc7?utm_campaign=goog  │
+│  le_jobs_apply&utm_source=google_jobs_apply&utm_medium=o  │
+│  rganic"},{"title":"Search Marketing                      │
+│  Analyst","company":"Deinde                               │
+│  Financial","location":"Chicago,                          │
+│  IL","description":"Growth Marketing Analyst  \nDeinde    │
+│  Financial (dba Integra Credit) is hiring a Growth        │
+│  Marketing Analyst to drive performance across new        │
+│  customer acquisition channels. This role sits at the     │
+│  center of marketing, analytics, and revenue generation,  │
+│  with responsibility spanning partner channels, direct    │
+│  marketing, and emerging acquisition                      │
+│  strategies.\n\nAbout the Role\nYou will own the          │
+│  performance, optimization, and scaling of acquisition    │
+│  efforts across channels including partnerships, and      │
+│  direct mail. This role is designed to develop into a     │
+│  full funnel growth owner over time, with increasing      │
+│  responsibility for channel strategy, testing, and unit   │
+│  economics.\n\nAs part of this role, you will leverage    │
+│  automation and agentic AI tools to improve speed,        │
+│  accuracy, and decision making. This includes working     │
+│  with platforms such as Amazon QuickSight and Amazon      │
+│  SageMaker, and continuously evolving how work is         │
+│  executed as automation capabilities expand.\n\nThis      │
+│  position reports directly to the Vice President of       │
+│  Marketing and offers direct exposure to executive        │
+│  decision making, forecasting, and growth                 │
+│  strategy.\n\nJob Responsibilities\n\nOwn performance     │
+│  across new customer acquisition channels, including      │
+│  partnerships and direct marketing, with accountability   │
+│  for growth, efficiency, and customer quality\n\nAnalyze  │
+│  channel and partner performance to identify trends,      │
+│  risks, and opportunities, and translate findings into    │
+│  clear business recommendations\n\nCollaborate cross      │
+│  functionally with Product, Risk, Data                    │
+│  Scie","apply_link":"https://www.jobilize.com/job/us-il-  │
+│  chicago-search-marketing-analyst-deinde-financial-hirin  │
+│  g-now?utm_campaign=google_jobs_apply&utm_source=google_  │
+│  jobs_apply&utm_medium=organic"},{"title":"Sales Data     │
+│  Analyst","company":"World's Finest                       │
+│  Chocolate","location":"Chicago,                          │
+│  IL","description":"REQUIRED: Nielsen/Circana (IRI)       │
+│  Experience\n\n\n\nPOSITION OVERVIEW\n\n\nWorld's Finest  │
+│  Chocolate is seeking a Sales Data Analyst to support     │
+│  our North American retail sales organization. This       │
+│  high-visibility role partners with national account      │
+│  teams (Walmart, Target, Costco, Kroger, etc.) to         │
+│  transform raw sales, syndicated, and trade-spend data    │
+│  into actionable insights via dashboards, ad-hoc          │
+│  reporting, ROI models, and trade-promotion analysis,     │
+│  while driving cross-functional projects from ideation    │
+│  to execution. The ideal candidate is a self-starter      │
+│  with strong Excel/SQL skills, early experience in        │
+│  Tableau or Power BI, project management discipline       │
+│  (timelines, stakeholders, deliverables), and a passion   │
+│  for CPG retail metrics.\n\n\n\nKEY                       │
+│  RESPONSIBILITIES\n\n\n\nDashboard Development &          │
+│  Maintenance (30%)\n\n\n\n Build and refresh              │
+│  weekly/monthly Tableau (or Power BI) dashboards          │
+│  tracking:\n POS velocity, ACV distribution, % promo,     │
+│  share of shelf\n Category growth vs. prior year /        │
+│  plan\n Customer P&L summaries\n Automate data pipelines  │
+│  using Alteryx, Python, or native connector tools.\n      │
+│  Utilize SQL to query and aggregate customer transaction  │
+│  data from a PostgreSQL database, identifying trends      │
+│  that informed marketing strategies\n\n\n\nRetail &       │
+│  Syndicated Data Pulls & Analysis (25%)\n\n\n\n Extract   │
+│  and cleanse data from:\n Retailer portals (Retail Link,  │
+│  Partners Online, VIP, etc.)\n Syndicated sources         │
+│  (Circana/IRI, Nielsen, SPINS, 84.51\u00b0/Kroger         │
+│  Precision)\n Perform period-over-period,                 │
+│  plan-vs-actual, and promo lift                           │
+│  analy","apply_link":"https://www.ziprecruiter.com/c/Wor  │
+│  lds-Finest-Chocolate/Job/Sales-Data-Analyst/-in-Chicago  │
+│  ,IL?jid=fdb80840a411d5e5&utm_campaign=google_jobs_apply  │
+│  &utm_source=google_jobs_apply&utm_medium=organic"}],"se  │
+│  lected_job":{"title":"Marketing                          │
+│  Inter","company":"Gorgeous Growth                        │
+│  Group","location":"Anywhere","description":"Gorgeous     │
+│  Growth LLC is a boutique consulting agency and           │
+│  professional network rooted in ethical and sustainable   │
+│  business practices. Our \u2018Gorgie Method\u2019        │
+│  guides creators, entrepreneurs, and go-getters through   │
+│  three stages: Set, Scale, Match, supported by our three  │
+│  branches: Knowledge, Network, and Toolkits, creating an  │
+│  ecosystem of growth.\u00a0\n\n\n\nWe are Chicago-based   │
+│  and service clients globally. Our mission is to help     │
+│  creators, entrepreneurs, and specialists grow with       │
+│  clarity, connection, and confidence. Through strategic   │
+│  growth support, curated matchmaking, and                 │
+│  community-driven support, we simplify the business side  │
+│  of growth, empowering professionals and businesses to    │
+│  scale intentionally, build aligned partnerships, and     │
+│  thrive within Chicagoland and beyond.\n\n\n\n\nWe are    │
+│  seeking driven, high-performing interns who are ready    │
+│  to gain real-world experience in a dynamic professional  │
+│  environment. We are offering three specialized           │
+│  internships: Social Media Engagement, Development &      │
+│  Communications, and Content Creation & Graphic Design.   │
+│  \n\n\n\n\nTrack 1: Social Media Engagement Intern        │
+│  \n\n\n\n\nRole Summary: The Social Media Engagement      │
+│  Intern is an executive-level support role focused on     │
+│  digital footprint, cross-platform engagement, and        │
+│  grassroots-level public relations and brand management.  │
+│  You will serve as the frontline of our online            │
+│  community, ensuring our brand presence is as polished    │
+│  and efficient as our backend operations while            │
+│  maintaining a community-oriented and active              │
+│  presence.\u00a0\n\n\n\n\nKey","apply_link":"https://www  │
+│  .linkedin.com/jobs/view/marketing-inter-at-gorgeous-gro  │
+│  wth-group-4448558755?utm_campaign=google_jobs_apply&utm  │
+│  _source=google_jobs_apply&utm_medium=organic"},"reason_  │
+│  selected":"The internship at Gorgeous Growth Group       │
+│  offers hands‑on marketing analytics work that matches    │
+│  Rahul’s 8‑month experience and skill set while           │
+│  providing a realistic entry‑level role."}                │
+│                                                           │
+╰───────────────────────────────────────────────────────────╯
+
+
+-------------------------------------------------
+-------------------Output Summary----------------
+-------------------------------------------------
+----------Resume Analyst output ----------
+('{"name":"Rahul Mehta","skills":["Google Analytics","GoogleData '
+ 'Studio","Meta Ads Manager","Google Ads","SQL","Excel","Python '
+ '(basic)","Tableau","HubSpot","Mailchimp","Hootsuite","A/B Testing","Customer '
+ 'Segmentation","Campaign Reporting","Presentation '
+ 'Skills"],"experience_months":8,"seniority":"Junior","search_query":"junior '
+ 'marketing analyst","summary":"Rahul Mehta is a junior marketing analyst with '
+ '8 months of experience in campaign performance analysis, customer '
+ 'segmentation, and marketing automation, proficient in SQL,Excel, and '
+ 'various analytics platforms.","resume_text":"RAHUL MEHTA\\nPune, '
+ 'Maharashtra\\nrahul.mehta.mkt@email.com\\n+91 91234 '
+ '56780\\nlinkedin.com/in/rahulmehta-marketing\\n\\nSUMMARY\\n\\nMarketing '
+ 'Analyst with 8 months of experience in campaign performance analysis, '
+ 'customer segmentation, and marketing automation. Skilled at turning campaign '
+ 'data into clear recommendations that improve conversion and retention. '
+ 'Comfortable working across SQL, Excel, and marketing analytics '
+ 'platforms.\\n\\nEDUCATION\\n\\nBachelor of Business Administration, '
+ 'Marketing\\nSymbiosis Institute of Management Studies, Pune, India\\nJul '
+ '2020 to May 2023\\nGPA 8.0 of 10\\n\\nRelevant Coursework:Consumer '
+ 'Behavior, Digital Marketing, Marketing Research, Business Statistics, Brand '
+ 'Management\\n\\nEXPERIENCE\\n\\nMarketing Analyst Intern\\nBrightWave '
+ 'Digital Pvt Ltd, Pune\\nSep 2024 to Apr 2025\\n\\nAnalyzedperformance of 15 '
+ 'plus digital ad campaigns across Google Ads and Meta Ads, identifying '
+ 'underperforming segments and reallocating budget to improve ROAS by 22 '
+ 'percent\\nBuilt customer segmentation models using SQL andExcel to support '
+ 'targeted email campaigns, increasing open rates by 12 percent\\nCreated '
+ 'weekly performance dashboards in Google Data Studio for stakeholders to '
+ 'track campaign KPIs\\nConducted A/B tests on landing pagesand email subject '
+ 'lines, documenting results and recommendations for the marketing '
+ 'team\\nSupported the marketing team in preparing monthly reports summarizing '
+ 'customer acquisition cost and lifetime value '
+ 'trends\\n\\nPROJECTS\\n\\nCustomer Churn Analysis for Subscription '
+ 'App\\nAnalyzed 6 months of user behavior data to identify the top 5 factors '
+ 'driving subscription cancellations, presenting findings toa mock '
+ 'stakeholder panel\\n\\nSocial Media Sentiment Tracker\\nBuilt a Python '
+ "script using Tweepy and TextBlob to track sentiment arounda sample brand's "
+ 'social mentions over a 30 day period\\n\\nSKILLS\\n\\nAnalytics Tools: '
+ 'Google Analytics, Google Data Studio, Meta Ads Manager, Google Ads\\nData '
+ 'and Reporting: SQL, Excel, Python (basic), Tableau\\nMarketing Platforms: '
+ 'HubSpot, Mailchimp, Hootsuite\\nOther: A/B Testing, Customer Segmentation, '
+ 'Campaign Reporting, Presentation Skills\\n\\nCERTIFICATIONS\\n\\nGoogle '
+ 'Analytics Individual Qualification, 2024\\nHubSpot ContentMarketing '
+ 'Certification, 2024"}')
+
+===== CANDIDATE =====
+Rahul Mehta
+
+===== CANDIDATE SUMMARY =====
+Rahul Mehta is a junior marketing analyst with 8 months of experience in campaign performance analysis, customer segmentation, and marketing automation, proficient in SQL, Excel, andvarious analytics platforms.
+
+===== DERIVED SEARCH QUERY =====
+junior marketing analyst
+
+===== SEARCH AGENT'S SELECTED JOB =====
+('{"search_results":[{"title":"Marketing Specialist - Early Life '
+ 'Strategy","company":"Verizon","location":"Rolling Meadows,'
+ 'IL","description":"When you join Verizon\\n\\nYou want more out of a career. '
+ 'A place to share your ideas freely \\u2014 even if they\\u2019re daring or '
+ 'different. Where the true you can learn, grow, and thrive.At Verizon, we '
+ 'power and empower how people live, work and play by connecting them to '
+ 'a...","apply_link":"https://www.linkedin.com/jobs/view/marketing-specialist-early-life-strategy-at-verizon-4450510558?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"},{"title":"Marketing '
+ 'Inter","company":"Gorgeous Growth '
+ 'Group","location":"Anywhere","description":"Gorgeous Growth LLC is a '
+ 'boutique consulting agency and professional network rootedin ethical and '
+ 'sustainable business practices. Our \\u2018Gorgie Method\\u2019 guides '
+ 'creators, entrepreneurs, and go-getters through three stages: Set, Scale, '
+ 'Match, supported by our three branches: Knowledge, Network, and Toolkits, '
+ 'creating an ecosystem of growth.\\u00a0\\n\\n\\n\\nWe are Chicago-based and '
+ 'service clients globally. Our mission is to help creators,entrepreneurs, '
+ 'and specialists grow with clarity, connection, and confidence. Through '
+ 'strategic growth support, curated matchmaking, and community-driven support, '
+ 'we simplify the business side of growth, empowering professionals and '
+ 'businesses to scale intentionally, build aligned partnerships, and thrive '
+ 'within Chicagoland and beyond.\\n\\n\\n\\n\\nWe are seeking driven, '
+ 'high-performing interns who are ready to gain real-world experience in a '
+ 'dynamic professional environment. We are offering three specialized '
+ 'internships: Social Media Engagement, Development & Communications, and '
+ 'Content Creation & Graphic Design. \\n\\n\\n\\n\\nTrack 1:Social Media '
+ 'Engagement Intern \\n\\n\\n\\n\\nRole Summary: The Social Media Engagement '
+ 'Intern is an executive-level support role focused on digital footprint, '
+ 'cross-platform engagement, and grassroots-level public relations and brand '
+ 'management. You will serve as the frontline of our online community, '
+ 'ensuring our brand presence is as polished and efficient as our backend '
+ 'operations while maintaining a community-oriented and active '
+ 'presence.\\u00a0\\n\\n\\n\\n\\nKey","apply_link":"https://www.linkedin.com/jobs/view/marketing-inter-at-gorgeous-growth-group-4448558755?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"},{"title":"Remote '
+ 'Lead BI Developer, Marketing Analytics","company":"Launch '
+ 'Potato","location":"Chicago, IL","description":"Launch Potato is seeking a '
+ 'Lead BI Developer to own the reporting infrastructure across multiple '
+ 'verticals, including Credit Cards and Banking. You will partner with Yield, '
+ 'Paid Media, and Account Management to uncover meaningful trends and deliver '
+ 'self\\u2011service analytics that drive business decisions.\\n\\nThe role '
+ 'requires 7+ years in BI/analytics with experience managingend-to-end '
+ 'reporting from data ingestion to '
+ 'dashboards.","apply_link":"https://www.jobleads.com/us/job/remote-lead-bi-developer-marketing-analytics--chicago--e4bbf29300a50ddb13361cb997f08efc7?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"},{"title":"Search '
+ 'Marketing Analyst","company":"Deinde Financial","location":"Chicago, '
+ 'IL","description":"Growth Marketing Analyst  \\nDeinde Financial (dba '
+ 'Integra Credit) is hiring a Growth Marketing Analyst to drive performance '
+ 'across new customer acquisition channels. This role sits at the center of '
+ 'marketing, analytics, and revenue generation, with responsibility spanning '
+ 'partner channels, direct marketing, and emerging acquisition '
+ 'strategies.\\n\\nAbout the Role\\nYou will own the performance, '
+ 'optimization, and scaling of acquisition efforts across channels including '
+ 'partnerships, and direct mail. This role is designed to develop into a full '
+ 'funnel growth owner over time, with increasing responsibility for channel '
+ 'strategy, testing, and unit economics.\\n\\nAs part of this role, you will '
+ 'leverage automation and agentic AI tools to improve speed,accuracy, and '
+ 'decision making. This includes working with platforms suchas Amazon '
+ 'QuickSight and Amazon SageMaker, and continuously evolvinghow work is '
+ 'executed as automation capabilities expand.\\n\\nThis position reports '
+ 'directly to the Vice President of Marketing and offers direct exposure to '
+ 'executive decision making, forecasting, and growth strategy.\\n\\nJob '
+ 'Responsibilities\\n\\nOwn performance across new customer acquisition '
+ 'channels, including partnerships and direct marketing, with accountability '
+ 'for growth, efficiency, and customer quality\\n\\nAnalyze channel and '
+ 'partner performance to identify trends, risks, and opportunities, and '
+ 'translate findings into clear business recommendations\\n\\nCollaborate '
+ 'cross functionally with Product, Risk, Data '
+ 'Scie","apply_link":"https://www.jobilize.com/job/us-il-chicago-search-marketing-analyst-deinde-financial-hiring-now?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"},{"title":"Sales '
+ 'Data Analyst","company":"World\'s Finest Chocolate","location":"Chicago, '
+ 'IL","description":"REQUIRED: Nielsen/Circana (IRI) '
+ "Experience\\n\\n\\n\\nPOSITION OVERVIEW\\n\\n\\nWorld's Finest Chocolate is "
+ 'seeking a Sales Data Analyst to support our North Americanretail sales '
+ 'organization. This high-visibility role partners with national account teams '
+ '(Walmart, Target, Costco, Kroger, etc.) to transform raw sales, syndicated, '
+ 'and trade-spend data into actionable insights via dashboards, ad-hoc '
+ 'reporting, ROI models, and trade-promotion analysis, whiledriving '
+ 'cross-functional projects from ideation to execution. The ideal candidate is '
+ 'a self-starter with strong Excel/SQL skills, early experience in Tableau or '
+ 'Power BI, project management discipline (timelines, stakeholders, '
+ 'deliverables), and a passion for CPG retail metrics.\\n\\n\\n\\nKEY '
+ 'RESPONSIBILITIES\\n\\n\\n\\nDashboard Development & Maintenance '
+ '(30%)\\n\\n\\n\\n Build and refresh weekly/monthly Tableau(or Power BI) '
+ 'dashboards tracking:\\n POS velocity, ACV distribution, % promo, share of '
+ 'shelf\\n Category growth vs. prior year / plan\\n CustomerP&L summaries\\n '
+ 'Automate data pipelines using Alteryx, Python, or native connector tools.\\n '
+ 'Utilize SQL to query and aggregate customer transaction data from a '
+ 'PostgreSQL database, identifying trends that informed marketing '
+ 'strategies\\n\\n\\n\\nRetail & Syndicated Data Pulls & Analysis '
+ '(25%)\\n\\n\\n\\n Extract and cleanse data from:\\n Retailer portals (Retail '
+ 'Link, Partners Online, VIP, etc.)\\n Syndicated sources (Circana/IRI, '
+ 'Nielsen, SPINS, 84.51\\u00b0/Kroger Precision)\\n Perform '
+ 'period-over-period, plan-vs-actual, and promo lift '
+ 'analy","apply_link":"https://www.ziprecruiter.com/c/Worlds-Finest-Chocolate/Job/Sales-Data-Analyst/-in-Chicago,IL?jid=fdb80840a411d5e5&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"}],"selected_job":{"title":"Marketing '
+ 'Inter","company":"Gorgeous Growth '
+ 'Group","location":"Anywhere","description":"Gorgeous Growth LLC is a '
+ 'boutique consulting agency and professional network rootedin ethical and '
+ 'sustainable business practices. Our \\u2018Gorgie Method\\u2019 guides '
+ 'creators, entrepreneurs, and go-getters through three stages: Set, Scale, '
+ 'Match, supported by our three branches: Knowledge, Network, and Toolkits, '
+ 'creating an ecosystem of growth.\\u00a0\\n\\n\\n\\nWe are Chicago-based and '
+ 'service clients globally. Our mission is to help creators,entrepreneurs, '
+ 'and specialists grow with clarity, connection, and confidence. Through '
+ 'strategic growth support, curated matchmaking, and community-driven support, '
+ 'we simplify the business side of growth, empowering professionals and '
+ 'businesses to scale intentionally, build aligned partnerships, and thrive '
+ 'within Chicagoland and beyond.\\n\\n\\n\\n\\nWe are seeking driven, '
+ 'high-performing interns who are ready to gain real-world experience in a '
+ 'dynamic professional environment. We are offering three specialized '
+ 'internships: Social Media Engagement, Development & Communications, and '
+ 'Content Creation & Graphic Design. \\n\\n\\n\\n\\nTrack 1:Social Media '
+ 'Engagement Intern \\n\\n\\n\\n\\nRole Summary: The Social Media Engagement '
+ 'Intern is an executive-level support role focused on digital footprint, '
+ 'cross-platform engagement, and grassroots-level public relations and brand '
+ 'management. You will serve as the frontline of our online community, '
+ 'ensuring our brand presence is as polished and efficient as our backend '
+ 'operations while maintaining a community-oriented and active '
+ 'presence.\\u00a0\\n\\n\\n\\n\\nKey","apply_link":"https://www.linkedin.com/jobs/view/marketing-inter-at-gorgeous-growth-group-4448558755?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"},"reason_selected":"The '
+ 'internship at Gorgeous Growth Group offers hands‑on marketing analytics work '
+ 'that matches Rahul’s 8‑month experience and skill set while providing a '
+ 'realistic entry‑level role."}')
+
+===== 5 JOBS FOUND =====
+[
+  {
+    "title": "Marketing Specialist - Early Life Strategy",
+    "company": "Verizon",
+    "location": "Rolling Meadows, IL",
+    "description": "When you join Verizon\n\nYou want more out of a career. A place to share your ideas freely \u2014 even if they\u2019re daring or different. Where the true you canlearn, grow, and thrive. At Verizon, we power and empower how people live, work and play by connecting them to a...",
+    "apply_link": "https://www.linkedin.com/jobs/view/marketing-specialist-early-life-strategy-at-verizon-4450510558?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+  },
+  {
+    "title": "Marketing Inter",
+    "company": "Gorgeous Growth Group",
+    "location": "Anywhere",
+    "description": "Gorgeous Growth LLC is a boutique consulting agency and professional network rooted in ethical and sustainable business practices. Our \u2018Gorgie Method\u2019 guides creators, entrepreneurs, and go-getters through three stages: Set, Scale, Match, supported by our three branches: Knowledge, Network, and Toolkits, creating an ecosystem of growth.\u00a0\n\n\n\nWe are Chicago-based and service clients globally. Our mission is to help creators, entrepreneurs, and specialists grow with clarity, connection, and confidence. Through strategic growth support, curated matchmaking, and community-driven support, we simplify the business side of growth, empowering professionals and businesses to scale intentionally, build aligned partnerships, and thrive within Chicagoland and beyond.\n\n\n\n\nWe are seeking driven, high-performing interns who are ready to gain real-world experience in a dynamic professional environment. We are offering three specialized internships: Social Media Engagement, Development & Communications, and Content Creation & Graphic Design. \n\n\n\n\nTrack 1: Social Media Engagement Intern \n\n\n\n\nRole Summary: The Social Media Engagement Intern is an executive-level support role focused on digital footprint, cross-platform engagement, and grassroots-level public relations and brand management. You will serve as the frontline of our online community, ensuring our brand presence is as polished and efficient as our backend operations while maintaining a community-oriented and active presence.\u00a0\n\n\n\n\nKey",
+    "apply_link": "https://www.linkedin.com/jobs/view/marketing-inter-at-gorgeous-growth-group-4448558755?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+  },
+  {
+    "title": "Remote Lead BI Developer, Marketing Analytics",
+    "company": "Launch Potato",
+    "location": "Chicago, IL",
+    "description": "Launch Potato is seeking a Lead BI Developer to own the reporting infrastructure across multiple verticals, including Credit Cards and Banking. You will partner with Yield, Paid Media, and Account Management to uncover meaningful trends and deliver self\u2011service analytics that drive business decisions.\n\nThe role requires 7+ years in BI/analytics with experience managing end-to-end reporting from data ingestion to dashboards.",
+    "apply_link": "https://www.jobleads.com/us/job/remote-lead-bi-developer-marketing-analytics--chicago--e4bbf29300a50ddb13361cb997f08efc7?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+  },
+  {
+    "title": "Search Marketing Analyst",
+    "company": "Deinde Financial",
+    "location": "Chicago, IL",
+    "description": "Growth Marketing Analyst  \nDeinde Financial (dba Integra Credit) is hiring a Growth Marketing Analyst to drive performance across new customer acquisition channels. This role sits at the center of marketing, analytics, andrevenue generation, with responsibility spanning partner channels, direct marketing, and emerging acquisition strategies.\n\nAbout the Role\nYou will own the performance, optimization, and scaling of acquisition efforts across channels including partnerships, and direct mail. This role is designed to develop into a full funnel growth owner over time, with increasing responsibility for channel strategy, testing, and unit economics.\n\nAs part of this role, you will leverage automation and agentic AI tools to improve speed, accuracy, and decision making. This includes working with platforms such as Amazon QuickSight and Amazon SageMaker, and continuously evolving how work is executed as automation capabilities expand.\n\nThis position reports directly to the Vice President of Marketing and offers direct exposure to executive decision making, forecasting, and growth strategy.\n\nJob Responsibilities\n\nOwn performance across new customer acquisition channels, including partnerships and direct marketing, with accountability for growth, efficiency, and customer quality\n\nAnalyze channel and partner performance to identify trends, risks, and opportunities, and translate findings into clear business recommendations\n\nCollaborate cross functionally with Product, Risk, Data Scie",
+    "apply_link": "https://www.jobilize.com/job/us-il-chicago-search-marketing-analyst-deinde-financial-hiring-now?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+  },
+  {
+    "title": "Sales Data Analyst",
+    "company": "World's Finest Chocolate",
+    "location": "Chicago, IL",
+    "description": "REQUIRED: Nielsen/Circana (IRI) Experience\n\n\n\nPOSITION OVERVIEW\n\n\nWorld's Finest Chocolate is seeking a Sales Data Analyst to support our North American retail sales organization. This high-visibility role partners with national account teams (Walmart, Target, Costco, Kroger, etc.) to transform raw sales, syndicated, and trade-spend data into actionable insights via dashboards, ad-hoc reporting, ROI models, and trade-promotion analysis, while driving cross-functional projects from ideation to execution. The ideal candidate is a self-starter with strong Excel/SQL skills, earlyexperience in Tableau or Power BI, project management discipline (timelines, stakeholders, deliverables), and a passion for CPG retail metrics.\n\n\n\nKEY RESPONSIBILITIES\n\n\n\nDashboard Development & Maintenance (30%)\n\n\n\n Build and refresh weekly/monthly Tableau (or Power BI) dashboards tracking:\n POS velocity, ACV distribution, % promo, share of shelf\n Category growth vs. prior year / plan\n Customer P&L summaries\n Automate data pipelines using Alteryx, Python, or native connector tools.\n Utilize SQL to query and aggregate customer transaction data from a PostgreSQL database, identifying trends that informed marketing strategies\n\n\n\nRetail & Syndicated Data Pulls & Analysis (25%)\n\n\n\n Extract and cleansedata from:\n Retailer portals (Retail Link, Partners Online,VIP, etc.)\n Syndicated sources (Circana/IRI, Nielsen, SPINS, 84.51\u00b0/Kroger Precision)\n Perform period-over-period,plan-vs-actual, and promo lift analy",
+    "apply_link": "https://www.ziprecruiter.com/c/Worlds-Finest-Chocolate/Job/Sales-Data-Analyst/-in-Chicago,IL?jid=fdb80840a411d5e5&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+  }
+]
+
+Email successfully sent to candidate@example.com
+(venv) PS C:\Users\geetharam\Desktop\Capstone\Github\Part_4_Agentic_AI_system> 
