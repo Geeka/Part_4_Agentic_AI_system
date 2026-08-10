@@ -59,7 +59,7 @@ Tool job_search executed with result: [{"title": "Junior .NET Backend Engineer \
 [Finalize] todos_count=0, todos_with_results=0
 ```
 
-## Outputs for 3 different resumes
+## Outputs for 3 different resumes   
 
 The output of the entire crew process successfully ran with 3 different resumes
 
