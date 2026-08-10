@@ -37,7 +37,25 @@ This uses the SerpAPI API call: https://serpapi.com/jobs-api through the functio
 
 
 
-2.	Design every tool to the four taught good-tool properties — Clear name, Honest/accurate description, Atomic (does one job), Safe (returns errors as data, never crashes the agent) — and document each tool in the README as a short tool-contract table: name, one-line description, parameters, and whether it is a read tool (fetches data only) or a write tool (would change state — flag if any of your tools are write tools and what safeguard you added).
+## CASH Properties of Tools in This Project
+
+**Job Search**
+- Clear: name and docstring make its purpose obvious.
+- Accurate/Honest: docstring states "Pure read -- has no side effects," which matches the code exactly.
+- Atomic: only searches and returns cleaned job data; no caching, no other responsibilities.
+- Safe: wraps the API call in try/except, returns `{"error": "..."}` on failure instead of raising.
+
+**Get Resume**
+- Clear: name and docstring are unambiguous.
+- Accurate/Honest: does exactly what it says, nothing more.
+- Atomic: single responsibility, no side effects.
+- Safe: cannot fail at call time -- resume is validated once at startup (`load_resume()`), before any agent runs.
+
+**Send Email** *(not agent-exposed)*
+- Clear: name and purpose are obvious.
+- Accurate/Honest: does exactly what it says.
+- Atomic: single responsibility (send one email).
+- Safe: wrapped in try/except, returns an error string instead of raising; also not callable by any agent -- invoked only in deterministic post-processing code after the crew finishes.
 
 | Tool | Description | Parameters | Type | Notes |
 |---|---|---|---|---|
@@ -45,13 +63,9 @@ This uses the SerpAPI API call: https://serpapi.com/jobs-api through the functio
 | Get Resume | Returns the candidate's full, exact resume text. Takes no arguments. | none | Read | Resume is loaded and validated once at startup (`load_resume()`), before any agent runs, so this call cannot fail mid-session. |
 
 
-3.	Document how your framework communicates the tool-selection decision as a {tool, arguments} contract. Both
-create_tool_calling_agent/AgentExecutor (Option A) and CrewAI's agent runtime (Option B) already parse the model's tool choice into a structured object internally — do not hand-write a raw-text JSON regex parser on top of a framework that already does this. Instead, for every tool call your agent makes: (a) inspect your framework's native tool-call representation (e.g., LangChain's intermediate steps /
-tool_calls, or CrewAI's tool-usage log) and extract the resolved tool name and parsed arguments from it; (b) print/log that as an explicit {"tool": ...,
-"arguments": {...}} object at the moment of each call; (c) include at least one real captured example of this logged object per demonstrated query in the README, as evidence that the routing decision is structured and inspectable.
-
+## Logging of tool calling events
 The crewai framework's native tool-call representation is logged in the agents_outputs.json file. The log includes the resolved tool name and parsed arguments for each tool call made by the agents. the sample log taken from software_engineer_output.txt is as follows:
-
+Using crewai tools events module
 
 ```
 [TOOL CALL] {"tool": "job_search", "arguments": {"query": "junior backend engineer"}, "agent_role": "Manager Agent"}
