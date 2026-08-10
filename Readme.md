@@ -51,11 +51,6 @@ This uses the SerpAPI API call: https://serpapi.com/jobs-api through the functio
 - Atomic: single responsibility, no side effects.
 - Safe: cannot fail at call time -- resume is validated once at startup (`load_resume()`), before any agent runs.
 
-**Send Email** *(not agent-exposed)*
-- Clear: name and purpose are obvious.
-- Accurate/Honest: does exactly what it says.
-- Atomic: single responsibility (send one email).
-- Safe: wrapped in try/except, returns an error string instead of raising; also not callable by any agent -- invoked only in deterministic post-processing code after the crew finishes.
 
 | Tool | Description | Parameters | Type | Notes |
 |---|---|---|---|---|
@@ -98,8 +93,6 @@ Output of the entire crew process successfully ran with the software engineer re
 
 The entire run outputs are stored in the corresponding output files.
 
-
-4.	Demonstrate the full loop on at least three distinct user queries or tasks , each exercising at least one of your tools. For each, record in the README: the query/task, which tool(s) were called with which arguments, and the final answer produced.
 
 
 The hierarchical and sequential run are done in the same run
