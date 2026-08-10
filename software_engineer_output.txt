@@ -1,0 +1,572 @@
+'across Ultra can get safe, compliant access to the data they need to do '
+ "their jobs. We don't want engineering to be the bottleneck on every stats "
+ 'page or internal tool. You\\u2019ll own the auth, permissions, and '
+ 'data-access platform that lets people build quickly and '
+ 'confidently.\\n\\n\\n\\n\\nWho You AreYou have 5+ years of professional '
+ 'software development experienceYou\\u2019re dangerous with LLMs because you '
+ 'know when they\\u2019re wrongYou\\u2019ve thought hard about authentication, '
+ 'authorization, and misbehaving agentsYou\\u2019re a '
+ 'softw","apply_link":"https://www.builtinnyc.com/job/software-infrastructure-engineer/9402913?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"}],"selected_job":{"title":"Mid-Level '
+ 'Full Stack Developer","company":"Neural Solutions","location":"Columbia, '
+ 'MD","description":"Full Stack Developer\\n\\nYou will act as a full stack '
+ 'developer for a system supporting mission management and workflow '
+ 'automation, working closely with a team of developers, analysts, and subject '
+ 'matter experts to develop and maintain a data orchestration '
+ 'platform.\\n\\nResponsibilities\\n\\n\\n\\nPerform full stack development of '
+ 'system features based on customer requirements, focusing on backend API '
+ 'development.Implement feature additions and updates in response to evolving '
+ 'mission-driven requirements.Provide development support to automation '
+ 'development team by conducting code reviews, offering software-engineering '
+ 'expertise, and developing enabling functions for automations.Modernize and '
+ 'harden the mission management system, including migration to modern '
+ 'infrastructure (Kubernetes), performing system upgrades, and integrating '
+ 'additional security features.\\n\\nRequired Skills\\n\\nExperience building '
+ 'full-scale applications and APIs with Django, Flask, FastAPI, etc.Service '
+ 'containerization and orchestration using Docker and Kubernetes (including '
+ 'Helm chart authoring and CI/CD integration).Proficiency with SQL and noSQL '
+ 'databases (PostGres, MySQL, Elasticsearch, MongoDB, etc.).Familiarity with '
+ 'Git.Familiarity with Atlassian tools (Jira, Confluence).\\n\\nNice To '
+ 'Have\\n\\nExperience with data orchestration platforms such as Dagster or '
+ 'Airflow.Full-stack application development experience including front-end '
+ 'frameworks (React, Vue, etc.).Familiarity with automation testing and CI/CD '
+ 'pipeline '
+ 'development","apply_link":"https://www.linkedin.com/jobs/view/mid-level-full-stack-developer-at-neural-solutions-4450983651?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"},"reason_selected":"The '
+ 'role requires FastAPI, Docker, Kubernetes, SQL/NoSQL, and backend API '
+ 'development—exactly matching Ananya’s mid‑level experience and skill set."}')
+
+===== 5 JOBS FOUND =====
+[
+  {
+    "title": "Mid-Level Software Developer",
+    "company": "Fusion Technology",
+    "location": "Yonkers, NY",
+    "description": "Who is Fusion Technology?Fusion Technology is a performance\u2011driven HUBZone Small Business concern residing in the heart of the beautiful mountainsides of West Virginia, steps away from the Federal Bureau of Investigation's Criminal Justice Information Services Division's Headquarters. Founded in 2007 by an Engineer\u2011by\u2011trade, Fusion Technology dedicates our valuable resources to providing comprehensive IT services and solutions to mission\u2011critical US Government programs and the Intel Community.Position Location:RemoteWho are you?Security\u2011cleared Professional: An active DOD Secret Security Clearance or higher is required to be considered.Education: You have a Bachelor's Degree with 4-8 years of experience or Masters with 2-6 years of relevant experience.Experience: Possesses and applies expertise on multiple complex work assignments. Assignments may be broad in nature, requiring originality and innovation in determining how to accomplish tasks. Operates with appreciable latitude in developing methodology and presenting solutions to problems. Contributes to deliverables and performance metrics where applicable.What you'll do:Develops, creates, and modifies general computer applications software or specialized utility programs.Analyzes user needs and develops software solutions.Designs or customizes software for client use with the aim of optimizing operational efficiency.Analyzes and designs databases within an application area, working individually or coordinating database deve",
+    "apply_link": "https://www.learn4good.com/jobs/yonkers/new-york/software_development/5352718458/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+  },
+  {
+    "title": "Software Engineer - Mid to Experienced Level (Maryland)",
+    "company": "National Security Agency",
+    "location": "Fort Meade, MD",
+    "description": "Responsibilities\n\nNSA is seeking experienced Software Engineers to advance high-impact systems and teams. Tools and technologies used evolve quickly, with systems and responsibilities spanning the full spectrum. Common tools and areas of interest include: COBOL, C/C++, Java, cloud computing, Angular, React, Python, PIG Analytics, Pyspark, agile development, continuous integration/continuous delivery (CI/CD), containers and Docker, Kubernetes, Amazon Web Services (AWS), Linux (VMWare), ElasticSearch, Rust, micro services, Ansible, clusters, digital forensics, incident response, quantum and more. Beyond technical skills, we need strong critical thinkers, collaborators, independent self-starters, continuous learners and flexible contributors. We look forward to hearing from you about what excites you and where you think you can make the most impact. ***Please upload a copy of your transcripts from all schools attended prior to applying for this position. Unofficial transcripts are fine at this stage. Minimum qualifications for this position require a degree that demonstrates a concentration of computer science (CS) courses in foundational CS areas.***\n\nJob Summary\n\nAs a Software Engineer at NSA, you can focus on virtually any area of computer science including cybersecurity, high-performance computing (HPC), quantum computing research, data analytics, machine learning/artificial intelligence (ML/AI), cryptology/cryptography, complex algorithms, large-scale platform development a",
+    "apply_link": "https://www.linkedin.com/jobs/view/software-engineer-mid-to-experienced-level-maryland-at-national-security-agency-4451516211?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+  },
+  {
+    "title": "Mid-level Software Developer",
+    "company": "CyberMedia Technologies",
+    "location": "New York, NY",
+    "description": "CTEC is a leading technology firm that provides modernization, digital transformation, and application development services to the U.S. Federal Government. Headquartered in McLean, VA, CTEC has over 300 team members working on mission-critical systems and projects for agencies such as the Department of Homeland Security, Internal Revenue Service, and the Office of Personnel Management. The work we do effects millions of U.S. citizens daily as they interact with the systems we build. Our best-in-class commercial solutions, modified for our customers\u2019 bespoke mission requirements, are enabling this future every day.\nThe Company has experienced rapid growth over the past 3 years and recently received a strategic investment from Main Street Capital Corporation (NYSE: MAIN). In addition to our recent growth in Federal Civilian agencies, we are seeking to expand our capabilities in cloud development and footprint in national-security focused agencies within the Department of Defense and U.S. Intelligence Community.\nWe are seeking to hire a Mid-level Software Developer to our team!\nClient: CTEC develops and delivers innovative customer-centric technologies and solutions that support the Office of Personnel Management\u2019s (OPM) Health and Insurance business unit and Office of the Chief Information Officer (OCIO).\nResponsibilities Software Development: Design, develop, and enhance software applications and data-driven solutions using modern programming languages and frameworks to suppor",
+    "apply_link": "https://jooble.org/jdp/1721378097159194657?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+  },
+  {
+    "title": "Mid-Level Full Stack Developer",
+    "company": "Neural Solutions",
+    "location": "Columbia, MD",
+    "description": "Full Stack Developer\n\nYou will act as a full stack developer for a system supporting mission management and workflow automation, working closely with a team of developers, analysts, and subject matter experts to develop and maintain a data orchestration platform.\n\nResponsibilities\n\n\n\nPerform full stack development of system features based on customer requirements, focusing on backend API development.Implement feature additions and updates in response to evolving mission-driven requirements.Provide development support to automation development team by conducting code reviews, offering software-engineering expertise, and developing enabling functions for automations.Modernize and harden the mission management system, including migration to modern infrastructure (Kubernetes), performing system upgrades, and integrating additional security features.\n\nRequired Skills\n\nExperience building full-scale applications and APIs with Django, Flask, FastAPI, etc.Service containerization and orchestration using Docker and Kubernetes (including Helm chart authoring and CI/CD integration).Proficiency with SQL and noSQL databases (PostGres, MySQL, Elasticsearch, MongoDB, etc.).Familiarity with Git.Familiarity with Atlassian tools (Jira, Confluence).\n\nNice To Have\n\nExperience with data orchestration platforms such as Dagster or Airflow.Full-stack application development experience including front-end frameworks (React, Vue, etc.).Familiarity with automation testing and CI/CD pipeline development",
+    "apply_link": "https://www.linkedin.com/jobs/view/mid-level-full-stack-developer-at-neural-solutions-4450983651?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+  },
+  {
+    "title": "Software Infrastructure Engineer",
+    "company": "Ultra (ultra.tech)",
+    "location": "New York, NY",
+    "description": "About UltraUltra builds industrial AI robots that are working in the real world today. Our robots automate mission-critical warehouse labor end-to-end, starting with e-commerce order packaging. We deploy fast, learn from real production data, and iterate aggressively. We already have a quickly growing number of revenue-generating robots operating in U.S. warehouses, and are now scaling towards thousands of deployments over the next few years. Our mission is simple: build the world's most useful and deployable robot.\n\n\n\n\nWARNING: Robotics is not for the faint of heart. There are no silver bullets here. It is tiresome, unglamorous, and at times brutal work. The only way out is through, and the only way through is treacherous and unknown. Success will require teamwork - we are building a world-class team to tackle some of the most exciting problems out there. We hope you join us.\n\nOverviewWe\u2019re seeking a Software Infrastructure Engineer for our NYC team (in-person) so teams across Ultra can get safe, compliant access to the data they need to do their jobs. We don't want engineering to be the bottleneck on every stats page or internal tool. You\u2019ll own the auth, permissions, and data-access platform that lets people build quickly and confidently.\n\n\n\n\nWho You AreYou have 5+ years of professional software development experienceYou\u2019re dangerous with LLMs because you know when they\u2019re wrongYou\u2019ve thought hard about authentication, authorization, and misbehaving agentsYou\u2019re a softw",
+    "apply_link": "https://www.builtinnyc.com/job/software-infrastructure-engineer/9402913?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+  }
+]
+
+Email successfully sent to candidate@example.com
+------------------------------------------------
+-------------------------------------------------
+-------------- HIERARCHICAL CREW ---------------
+------------------------------------------------
+------------------------------------------------
+╭──────────────────── 🤖 Agent Started ─────────────────────╮
+│                                                           │
+│  Agent: Manager Agent                                     │
+│                                                           │
+│  Task: Read the resume and extract the candidate's        │
+│  skills, experience level, and seniority. Derive a        │
+│  realistic job search query matching their actual level   │
+│  (e.g. 'junior data analyst', not 'senior data            │
+│  scientist').                                             │
+│                                                           │
+│  Return ONLY JSON in this exact shape, no extra text:     │
+│  "search_query": "...", "summary": "1-2 sentence honest   │
+│  summary of the candidate"}Also pass the candidates       │
+│  actual resume text to the next task via context          │
+│                                                           │
+╰───────────────────────────────────────────────────────────╯
+
+Tool get_resume executed with result: ANANYA SHARMA
+Hyderabad, Telangana
+ananya.sharma.dev@email.com
++91 90123 45678
+linkedin.com/in/ananyasharma-dev
+github.com/ananya-codes
+
+SUMMARY
+
+Software Engineer with 2 years of experience building ...[TOOL CALL] {"tool": "get_resume", "arguments": {}, "agent_role": "Manager Agent"}
+
+[Finalize] todos_count=0, todos_with_results=0
+╭────────────────── ✅ Agent Final Answer ──────────────────╮
+│                                                           │
+│  Agent: Manager Agent                                     │
+│                                                           │
+│  Final Answer:                                            │
+│  {"name":"Ananya                                          │
+│  Sharma","skills":["Python","Java","SQL","JavaScript","F  │
+│  astAPI","Spring                                          │
+│  Boot","Flask","Node.js","PostgreSQL","MySQL","Redis","M  │
+│  ongoDB","Docker","GitHub Actions","AWS EC2","AWS         │
+│  S3","Kubernetes","REST API                               │
+│  Design","Microservices","Kafka","Unit Testing","Agile    │
+│  Scrum","Git","AWS Certified Developer,                   │
+│  Associate","Oracle Certified Professional, Java SE 11    │
+│  Developer"],"experience_months":24,"seniority":"Junior"  │
+│  ,"search_query":"junior backend                          │
+│  engineer","summary":"Ananya Sharma is a junior backend   │
+│  engineer with 2 years of experience in Python and Java,  │
+│  specializing in microservices, REST APIs, and CI/CD      │
+│  pipelines, seeking a mid-level backend or full-stack     │
+│  role."}                                                  │
+│                                                           │
+╰───────────────────────────────────────────────────────────╯
+
+╭──────────────────── 🤖 Agent Started ─────────────────────╮
+│                                                           │
+│  Agent: Manager Agent                                     │
+│                                                           │
+│  Task: Search for real, current job postings matching     │
+│  the query from the analyst. Check for hiring spam --     │
+│  watch for generic staffing-mill listings, repeated       │
+│  marketing copy, vague or missing requirements, and       │
+│  postings that don't name a real hiring company. Then     │
+│  use your judgement to pick the ONE job which best fits   │
+│  the candidate's actual skills and experience level.      │
+│                                                           │
+╰───────────────────────────────────────────────────────────╯
+
+[TOOL CALL] {"tool": "job_search", "arguments": {"query": "junior backend engineer"}, "agent_role": "Manager Agent"}
+Tool job_search executed with result: [{"title": "Junior .NET Backend Engineer \u2014 Remote-Ready", "company": "Metrc LLC", "location": "United States", "description": "Metrc LLC is seeking a motivated Backend .NET Engineer to support sc...
+[Finalize] todos_count=0, todos_with_results=0
+╭────────────────── ✅ Agent Final Answer ──────────────────╮
+│                                                           │
+│  Agent: Manager Agent                                     │
+│                                                           │
+│  Final Answer:                                            │
+│  {"search_results":[{"title":"Junior .NET Backend         │
+│  Engineer \u2014 Remote-Ready","company":"Metrc           │
+│  LLC","location":"United States","description":"Metrc     │
+│  LLC is seeking a motivated Backend .NET Engineer to      │
+│  support scalable server-side systems and APIs. You will  │
+│  work with .NET technologies and C# to build secure,      │
+│  high-performance services, collaborating with            │
+│  experienced engineers in a fast-paced, growth-oriented   │
+│  company.\n\nThe role emphasizes learning, code quality,  │
+│  and contributing to RESTful services, while partnering   │
+│  with front-end teams and database developers to ensure   │
+│  reliable, scalable                                       │
+│  solutions.","apply_link":"https://www.jobleads.com/us/j  │
+│  ob/junior-net-backend-engineer-remote-ready--united-sta  │
+│  tes--ef07c04963bc2563daf44ffefd15c4fa9?utm_campaign=goo  │
+│  gle_jobs_apply&utm_source=google_jobs_apply&utm_medium=  │
+│  organic"},{"title":"Remote Junior Backend Engineer       │
+│  \u2014 Coding Career","company":"vacancy global          │
+│  pro","location":"Anywhere","description":"\u2022         │
+│  Position Remote Junior Backend Engineer \u2014 Grow      │
+│  Your Coding Career \u2014 Location reputed company       │
+│  \u2014 Launch Your Backend Developer Career Remotely     │
+│  (US)! ($65K-$75K) \u2014 Do you reputed company of       │
+│  writing reputed company, optimizing apps, and            │
+│  collaborating on exciting reputed company? Join our      │
+│  remote team! We\u2019re looking for a Junior Backend     │
+│  Engineer to \u2022 Collaborate on                        │
+│  designing,developing,and maintaining our backend         │
+│  systems. \u2022 Write clean,efficient reputed company    │
+│  and troubleshoot issues to reputed company our           │
+│  applications running smoothly. \u2022 Learn and grow     │
+│  your backend development skills in a supportive          │
+│  environment. \u2022 You\u2019re a great fit if you have  │
+│  \u2022 1+ years of backend development experience.       │
+│  \u2022 A Bachelor\u2019s degree in Computer              │
+│  Science,Engineering,or a reputed company field (or       │
+│  equivalent experience). \u2022 Strong understanding of   │
+│  backend development concepts and at least one            │
+│  programming language (Python,Java,reputed company).      │
+│  \u2022 Experience with web frameworks and relational     │
+│  databases (SQL queries). \u2022 Bonus points for \u2022  │
+│  reputed company platform experience (AWS,Azure,reputed   │
+│  company reputed company). \u2022 Experience with No      │
+│  \u2022 SQL databases,containerization,CI/CD              │
+│  pipelines,or reputed company-end technologies. \u2022    │
+│  reputed company-reputed company project contributions    │
+│  or personal coding reputed company. \u2022 Why this      │
+│  remote job is for you \u2022 Competitive salary          │
+│  ($65,000 \u2013 $75,000). \u2022 Work from reputed       │
+│  company in the US! \u2022 Grow your skills with a        │
+│  supportive and reputed company team. \u2022 Be part of   │
+│  a                                                        │
+│  comp","apply_link":"https://vacancyglobalpro.up.railway  │
+│  .app/job/remote-junior-backend-engineer-coding-career-5  │
+│  ?utm_campaign=google_jobs_apply&utm_source=google_jobs_  │
+│  apply&utm_medium=organic"},{"title":"Junior Backend      │
+│  Engineer - Customer                                      │
+│  Identity","company":"N26","location":"United             │
+│  States","description":"About the                         │
+│  opportunity\n\n\nBanking Foundations domain mission for  │
+│  N26 is to provide secure and compliant banking services  │
+│  that are frictionless and innovative for customers,      │
+│  while enabling efficient operations and informed         │
+│  decision-making for our staff.\n\n\nWe achieve this      │
+│  through robust customer identity verification,           │
+│  proactive risk management, and seamless customer         │
+│  support. This foundation enables N26 to achieve          │
+│  sustainable growth while maintaining the highest levels  │
+│  of trust with our customers and regulators.\n\n\nThe     │
+│  Customer Identity segment is central to this mission.    │
+│  We own the full identity verification stack that powers  │
+│  N26's customer onboarding \u2014 from KYC verification   │
+│  orchestration and provider integrations (video           │
+│  identification, document verification, biometric         │
+│  screening) to the regulatory compliance checks that      │
+│  keep our banking licence in good standing. Our systems   │
+│  operate at scale across multiple European                │
+│  markets,processing high volumes of verifications while   │
+│  meeting strict AML, KYC, and GDPR requirements.\n\n\nWe  │
+│  are currently in an active architectural modernisation   │
+│  phase: consolidating our provider integration layer,     │
+│  hardening our orchestration service, and rationalising   │
+│  domain ownership across teams \u2014 giving engineers    │
+│  meaningful work on systems that directly affect every    │
+│  new N26 customer.\n\n\nOur cross-functional teams are    │
+│  passionate about collaboration and sharing knowledge,    │
+│  as well as working with a high degree of                 │
+│  autonomy.\n\n\nAs a Backend Engineer at N26, you will    │
+│  be                                                       │
+│  en","apply_link":"https://www.jobleads.com/us/job/junio  │
+│  r-backend-engineer-customer-identity--barcelona--ebff76  │
+│  13f97041d874441efc7d6a520c5?utm_campaign=google_jobs_ap  │
+│  ply&utm_source=google_jobs_apply&utm_medium=organic"},{  │
+│  "title":"Junior Backend Engineer","company":"Aspect      │
+│  AI","location":"Call, TX","description":"We are looking  │
+│  for a motivated and enthusiastic Junior Backend          │
+│  Engineer to join our development team. As a Junior       │
+│  Backend Engineer, you will assist in building and        │
+│  maintaining the server-side components of our SaaS       │
+│  dashboard product.\n\n\nYou will work under the          │
+│  guidance of senior engineers to develop, test, and       │
+│  deploy scalable and reliable backend                     │
+│  solutions.\n\n\nWhat you will do\n\n\n\nAssist in the    │
+│  development of server-side logic, APIs, and databases    │
+│  for our SaaS dashboard product.\n\n\nCollaborate with    │
+│  senior engineers to design and implement new features    │
+│  and enhancements.\n\n\nWrite clean, maintainable, and    │
+│  efficient code while following best practices and        │
+│  coding standards.\n\n\nParticipate in code reviews,      │
+│  testing, and debugging to ensure high-quality            │
+│  deliverables.\n\n\nContribute to the optimization of     │
+│  backend performance and scalability.\n\n\nWork closely   │
+│  with frontend developers to integrate backend services   │
+│  with user-facing applications.\n\n\nStay current with    │
+│  emerging technologies and industry trends to             │
+│  continually improve backend development                  │
+│  practices.\n\n\n\nOur tech stack\n\n\n\nProgramming      │
+│  Languages: Python, Java, or Node.js\n\n\nFrameworks:     │
+│  Django, Spring Boot, or Express.js\n\n\nDatabases:       │
+│  PostgreSQL, MongoDB, or MySQL\n\n\nAPIs: RESTful APIs    │
+│  and GraphQL\nVersion Control: Git\n\n\nDeployment        │
+│  Tools: Docker, Heroku, or AWS\n\n\nTesting: Unit         │
+│  testing frameworks such as PyTest, JUnit, or             │
+│  Mocha\n\n\n\nWhat we offer\n\n\n\nCompetitive Salary     │
+│  with opportunities for performance-based                 │
+│  bonuses.\n\n\nFlexible Working Hours and                 │
+│  rem","apply_link":"https://bebee.com/us/jobs/junior-bac  │
+│  kend-engineer-aspect-ai-call--techmap_us_4448945198?utm  │
+│  _campaign=google_jobs_apply&utm_source=google_jobs_appl  │
+│  y&utm_medium=organic"},{"title":"Junior Backend          │
+│  Engineer","company":"Patterned Learning                  │
+│  AI","location":"San Francisco,                           │
+│  CA","description":"Junior Backend Engineer , Full-Time,  │
+│  Salary $70K - $80K\n\n\nMinimum 1 year of work           │
+│  experience - Remote (US/Canada Residing people only,     │
+│  with work permit)\n\n\nAbout us: The Future of AI is     │
+│  Patterned We are a stealth-mode technology startup that  │
+│  is revolutionizing the way AI is used. Our platform      │
+│  uses pattern recognition to train AI models that are     │
+│  more accurate, efficient, and robust than ever           │
+│  before.\n\n\nWe are backed by top investors, including   │
+│  Sequoia and Andreessen Horowitz, and we are hiring for   │
+│  almost everything! If you are passionate about AI and    │
+│  want to be a part of something big, then we want to      │
+│  hear from you.\n\n\nHere are some of the benefits of     │
+│  working at Patterned Learning AI: Work with              │
+│  world-renowned experts in AI, machine learning, and      │
+│  pattern recognition. Solve some of the world's most      │
+│  pressing problems using AI.\n\n\nMake a positive impact  │
+│  on the world. Be a part of a fast-growing startup. If    │
+│  you are interested in learning more, please visit our    │
+│  website.\n\n\nWe are looking for people who              │
+│  are:\n\n\nPassionate about AI.\n\n\nExcellent problem    │
+│  solvers.\n\n\nTeam players.\n\n\nDriven to               │
+│  succeed.\n\n\nJob Summary:\nWe are seeking a highly      │
+│  motivated Junior Backend Engineer to join our team. In   │
+│  this role, you will collaborate with a cross-functional  │
+│  team of developers, designers, and product managers to   │
+│  build and maintain scalable and efficient backend        │
+│  systems. You will play a key role in implementing new    │
+│  features, optimizing performance, and ensuring the       │
+│  reliability of our applications.\n\n\nThis               │
+│  i","apply_link":"https://bebee.com/us/jobs/junior-backe  │
+│  nd-engineer-patterned-learning-ai-san-francisco--ss-us-  │
+│  10rl790?utm_campaign=google_jobs_apply&utm_source=googl  │
+│  e_jobs_apply&utm_medium=organic"}],"selected_job":{"tit  │
+│  le":"Junior Backend Engineer","company":"Aspect          │
+│  AI","location":"Call, TX","description":"We are looking  │
+│  for a motivated and enthusiastic Junior Backend          │
+│  Engineer to join our development team. As a Junior       │
+│  Backend Engineer, you will assist in building and        │
+│  maintaining the server-side components of our SaaS       │
+│  dashboard product.\n\n\nYou will work under the          │
+│  guidance of senior engineers to develop, test, and       │
+│  deploy scalable and reliable backend                     │
+│  solutions.\n\n\nWhat you will do\n\n\n\nAssist in the    │
+│  development of server-side logic, APIs, and databases    │
+│  for our SaaS dashboard product.\n\n\nCollaborate with    │
+│  senior engineers to design and implement new features    │
+│  and enhancements.\n\n\nWrite clean, maintainable, and    │
+│  efficient code while following best practices and        │
+│  coding standards.\n\n\nParticipate in code reviews,      │
+│  testing, and debugging to ensure high-quality            │
+│  deliverables.\n\n\nContribute to the optimization of     │
+│  backend performance and scalability.\n\n\nWork closely   │
+│  with frontend developers to integrate backend services   │
+│  with user-facing applications.\n\n\nStay current with    │
+│  emerging technologies and industry trends to             │
+│  continually improve backend development                  │
+│  practices.\n\n\n\nOur tech stack\n\n\n\nProgramming      │
+│  Languages: Python, Java, or Node.js\n\n\nFrameworks:     │
+│  Django, Spring Boot, or Express.js\n\n\nDatabases:       │
+│  PostgreSQL, MongoDB, or MySQL\n\n\nAPIs: RESTful APIs    │
+│  and GraphQL\nVersion Control: Git\n\n\nDeployment        │
+│  Tools: Docker, Heroku, or AWS\n\n\nTesting: Unit         │
+│  testing frameworks such as PyTest, JUnit, or             │
+│  Mocha\n\n\n\nWhat we offer\n\n\n\nCompetitive Salary     │
+│  with opportunities for performance-based                 │
+│  bonuses.\n\n\nFlexible Working Hours and                 │
+│  rem","apply_link":"https://bebee.com/us/jobs/junior-bac  │
+│  kend-engineer-aspect-ai-call--techmap_us_4448945198?utm  │
+│  _campaign=google_jobs_apply&utm_source=google_jobs_appl  │
+│  y&utm_medium=organic"},"reason_selected":"Aspect AI’s    │
+│  tech stack and responsibilities align closely with       │
+│  Ananya’s Python, Java, REST API, Docker, and AWS         │
+│  experience, making it the best fit."}                    │
+│                                                           │
+╰───────────────────────────────────────────────────────────╯
+
+
+-------------------------------------------------
+-------------------Output Summary----------------
+-------------------------------------------------
+----------Resume Analyst output ----------
+('{"name":"Ananya '
+ 'Sharma","skills":["Python","Java","SQL","JavaScript","FastAPI","Spring '
+ 'Boot","Flask","Node.js","PostgreSQL","MySQL","Redis","MongoDB","Docker","GitHub '
+ 'Actions","AWS EC2","AWS S3","Kubernetes","REST API '
+ 'Design","Microservices","Kafka","Unit Testing","Agile Scrum","Git","AWS '
+ 'Certified Developer, Associate","Oracle Certified Professional, Java SE 11 '
+ 'Developer"],"experience_months":24,"seniority":"Junior","search_query":"junior '
+ 'backend engineer","summary":"Ananya Sharma is a junior backend engineer with '
+ '2 years of experience in Python and Java, specializing in microservices, '
+ 'REST APIs, and CI/CD pipelines, seeking a mid-level backend or full-stack '
+ 'role."}')
+
+===== CANDIDATE =====
+Ananya Sharma
+
+===== CANDIDATE SUMMARY =====
+Ananya Sharma is a junior backend engineer with 2 years of experience in Python and Java, specializing in microservices, REST APIs, and CI/CD pipelines, seeking a mid-level backend or full-stack role.
+
+===== DERIVED SEARCH QUERY =====
+junior backend engineer
+
+===== SEARCH AGENT'S SELECTED JOB =====
+('{"search_results":[{"title":"Junior .NET Backend Engineer \\u2014 '
+ 'Remote-Ready","company":"Metrc LLC","location":"United '
+ 'States","description":"Metrc LLC is seeking a motivated Backend .NET '
+ 'Engineer to support scalable server-side systems and APIs. You will work '
+ 'with .NET technologies and C# to build secure, high-performance services, '
+ 'collaborating with experienced engineers in a fast-paced, growth-oriented '
+ 'company.\\n\\nThe role emphasizes learning, code quality, and contributing '
+ 'to RESTful services, while partnering with front-end teams and database '
+ 'developers to ensure reliable, scalable '
+ 'solutions.","apply_link":"https://www.jobleads.com/us/job/junior-net-backend-engineer-remote-ready--united-states--ef07c04963bc2563daf44ffefd15c4fa9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"},{"title":"Remote '
+ 'Junior Backend Engineer \\u2014 Coding Career","company":"vacancy global '
+ 'pro","location":"Anywhere","description":"\\u2022 Position Remote Junior '
+ 'Backend Engineer \\u2014 Grow Your Coding Career \\u2014 Location reputed '
+ 'company \\u2014 Launch Your Backend Developer Career Remotely (US)! '
+ '($65K-$75K) \\u2014 Do you reputed company of writing reputed company, '
+ 'optimizing apps, and collaborating on exciting reputed company? Join our '
+ 'remote team! We\\u2019re looking for a Junior Backend Engineer to \\u2022 '
+ 'Collaborate on designing,developing,and maintaining our backend systems. '
+ '\\u2022 Write clean,efficient reputed company and troubleshoot issues to '
+ 'reputed company our applications running smoothly. \\u2022 Learn and grow '
+ 'your backend development skills in a supportive environment. \\u2022 '
+ 'You\\u2019re a great fit if you have \\u2022 1+ years of backend development '
+ 'experience. \\u2022 A Bachelor\\u2019s degree in Computer '
+ 'Science,Engineering,or a reputed company field (or equivalent experience). '
+ '\\u2022 Strong understanding of backend development concepts and at least '
+ 'one programming language (Python,Java,reputed company). \\u2022 Experience '
+ 'with web frameworks and relational databases (SQL queries). \\u2022 Bonus '
+ 'points for \\u2022 reputed company platform experience (AWS,Azure,reputed '
+ 'company reputed company). \\u2022 Experience with No \\u2022 SQL '
+ 'databases,containerization,CI/CD pipelines,or reputed company-end '
+ 'technologies. \\u2022 reputed company-reputed company project contributions '
+ 'or personal coding reputed company. \\u2022 Why this remote job is for you '
+ '\\u2022 Competitive salary ($65,000 \\u2013 $75,000). \\u2022 Work from '
+ 'reputed company in the US! \\u2022 Grow your skills with a supportive and '
+ 'reputed company team. \\u2022 Be part of a '
+ 'comp","apply_link":"https://vacancyglobalpro.up.railway.app/job/remote-junior-backend-engineer-coding-career-5?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"},{"title":"Junior '
+ 'Backend Engineer - Customer Identity","company":"N26","location":"United '
+ 'States","description":"About the opportunity\\n\\n\\nBanking Foundations '
+ 'domain mission for N26 is to provide secure and compliant banking services '
+ 'that are frictionless and innovative for customers, while enabling efficient '
+ 'operations and informed decision-making for our staff.\\n\\n\\nWe achieve '
+ 'this through robust customer identity verification, proactive risk '
+ 'management, and seamless customer support. This foundation enables N26 to '
+ 'achieve sustainable growth while maintaining the highest levels of trust '
+ 'with our customers and regulators.\\n\\n\\nThe Customer Identity segment is '
+ 'central to this mission. We own the full identity verification stack that '
+ "powers N26's customer onboarding \\u2014 from KYC verification orchestration "
+ 'and provider integrations (video identification, document verification, '
+ 'biometric screening) to the regulatory compliance checks that keep our '
+ 'banking licence in good standing. Our systems operate at scale across '
+ 'multiple European markets,processing high volumes of verifications while '
+ 'meeting strict AML, KYC, and GDPR requirements.\\n\\n\\nWe are currently in '
+ 'an active architectural modernisation phase: consolidating our provider '
+ 'integration layer, hardening our orchestration service, and rationalising '
+ 'domain ownership across teams \\u2014 giving engineers meaningful work on '
+ 'systems that directly affect every new N26 customer.\\n\\n\\nOur '
+ 'cross-functional teams are passionate about collaboration and sharing '
+ 'knowledge, as well as working with a high degree of autonomy.\\n\\n\\nAs a '
+ 'Backend Engineer at N26, you will be '
+ 'en","apply_link":"https://www.jobleads.com/us/job/junior-backend-engineer-customer-identity--barcelona--ebff7613f97041d874441efc7d6a520c5?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"},{"title":"Junior '
+ 'Backend Engineer","company":"Aspect AI","location":"Call, '
+ 'TX","description":"We are looking for a motivated and enthusiastic Junior '
+ 'Backend Engineer to join our development team. As a Junior Backend Engineer, '
+ 'you will assist in building and maintaining the server-side components of '
+ 'our SaaS dashboard product.\\n\\n\\nYou will work under the guidance of '
+ 'senior engineers to develop, test, and deploy scalable and reliable backend '
+ 'solutions.\\n\\n\\nWhat you will do\\n\\n\\n\\nAssist in the development of '
+ 'server-side logic, APIs, and databases for our SaaS dashboard '
+ 'product.\\n\\n\\nCollaborate with senior engineers to design and implement '
+ 'new features and enhancements.\\n\\n\\nWrite clean, maintainable, and '
+ 'efficient code while following best practices and coding '
+ 'standards.\\n\\n\\nParticipate in code reviews, testing, and debugging to '
+ 'ensure high-quality deliverables.\\n\\n\\nContribute to the optimization of '
+ 'backend performance and scalability.\\n\\n\\nWork closely with frontend '
+ 'developers to integrate backend services with user-facing '
+ 'applications.\\n\\n\\nStay current with emerging technologies and industry '
+ 'trends to continually improve backend development practices.\\n\\n\\n\\nOur '
+ 'tech stack\\n\\n\\n\\nProgramming Languages: Python, Java, or '
+ 'Node.js\\n\\n\\nFrameworks: Django, Spring Boot, or '
+ 'Express.js\\n\\n\\nDatabases: PostgreSQL, MongoDB, or MySQL\\n\\n\\nAPIs: '
+ 'RESTful APIs and GraphQL\\nVersion Control: Git\\n\\n\\nDeployment Tools: '
+ 'Docker, Heroku, or AWS\\n\\n\\nTesting: Unit testing frameworks such as '
+ 'PyTest, JUnit, or Mocha\\n\\n\\n\\nWhat we offer\\n\\n\\n\\nCompetitive '
+ 'Salary with opportunities for performance-based bonuses.\\n\\n\\nFlexible '
+ 'Working Hours and '
+ 'rem","apply_link":"https://bebee.com/us/jobs/junior-backend-engineer-aspect-ai-call--techmap_us_4448945198?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"},{"title":"Junior '
+ 'Backend Engineer","company":"Patterned Learning AI","location":"San '
+ 'Francisco, CA","description":"Junior Backend Engineer , Full-Time, Salary '
+ '$70K - $80K\\n\\n\\nMinimum 1 year of work experience - Remote (US/Canada '
+ 'Residing people only, with work permit)\\n\\n\\nAbout us: The Future of AI '
+ 'is Patterned We are a stealth-mode technology startup that is '
+ 'revolutionizing the way AI is used. Our platform uses pattern recognition to '
+ 'train AI models that are more accurate, efficient, and robust than ever '
+ 'before.\\n\\n\\nWe are backed by top investors, including Sequoia and '
+ 'Andreessen Horowitz, and we are hiring for almost everything! If you are '
+ 'passionate about AI and want to be a part of something big, then we want to '
+ 'hear from you.\\n\\n\\nHere are some of the benefits of working at Patterned '
+ 'Learning AI: Work with world-renowned experts in AI, machine learning, and '
+ "pattern recognition. Solve some of the world's most pressing problems using "
+ 'AI.\\n\\n\\nMake a positive impact on the world. Be a part of a fast-growing '
+ 'startup. If you are interested in learning more, please visit our '
+ 'website.\\n\\n\\nWe are looking for people who are:\\n\\n\\nPassionate about '
+ 'AI.\\n\\n\\nExcellent problem solvers.\\n\\n\\nTeam players.\\n\\n\\nDriven '
+ 'to succeed.\\n\\n\\nJob Summary:\\nWe are seeking a highly motivated Junior '
+ 'Backend Engineer to join our team. In this role, you will collaborate with a '
+ 'cross-functional team of developers, designers, and product managers to '
+ 'build and maintain scalable and efficient backend systems. You will play a '
+ 'key role in implementing new features, optimizing performance, and ensuring '
+ 'the reliability of our applications.\\n\\n\\nThis '
+ 'i","apply_link":"https://bebee.com/us/jobs/junior-backend-engineer-patterned-learning-ai-san-francisco--ss-us-10rl790?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"}],"selected_job":{"title":"Junior '
+ 'Backend Engineer","company":"Aspect AI","location":"Call, '
+ 'TX","description":"We are looking for a motivated and enthusiastic Junior '
+ 'Backend Engineer to join our development team. As a Junior Backend Engineer, '
+ 'you will assist in building and maintaining the server-side components of '
+ 'our SaaS dashboard product.\\n\\n\\nYou will work under the guidance of '
+ 'senior engineers to develop, test, and deploy scalable and reliable backend '
+ 'solutions.\\n\\n\\nWhat you will do\\n\\n\\n\\nAssist in the development of '
+ 'server-side logic, APIs, and databases for our SaaS dashboard '
+ 'product.\\n\\n\\nCollaborate with senior engineers to design and implement '
+ 'new features and enhancements.\\n\\n\\nWrite clean, maintainable, and '
+ 'efficient code while following best practices and coding '
+ 'standards.\\n\\n\\nParticipate in code reviews, testing, and debugging to '
+ 'ensure high-quality deliverables.\\n\\n\\nContribute to the optimization of '
+ 'backend performance and scalability.\\n\\n\\nWork closely with frontend '
+ 'developers to integrate backend services with user-facing '
+ 'applications.\\n\\n\\nStay current with emerging technologies and industry '
+ 'trends to continually improve backend development practices.\\n\\n\\n\\nOur '
+ 'tech stack\\n\\n\\n\\nProgramming Languages: Python, Java, or '
+ 'Node.js\\n\\n\\nFrameworks: Django, Spring Boot, or '
+ 'Express.js\\n\\n\\nDatabases: PostgreSQL, MongoDB, or MySQL\\n\\n\\nAPIs: '
+ 'RESTful APIs and GraphQL\\nVersion Control: Git\\n\\n\\nDeployment Tools: '
+ 'Docker, Heroku, or AWS\\n\\n\\nTesting: Unit testing frameworks such as '
+ 'PyTest, JUnit, or Mocha\\n\\n\\n\\nWhat we offer\\n\\n\\n\\nCompetitive '
+ 'Salary with opportunities for performance-based bonuses.\\n\\n\\nFlexible '
+ 'Working Hours and '
+ 'rem","apply_link":"https://bebee.com/us/jobs/junior-backend-engineer-aspect-ai-call--techmap_us_4448945198?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"},"reason_selected":"Aspect '
+ 'AI’s tech stack and responsibilities align closely with Ananya’s Python, '
+ 'Java, REST API, Docker, and AWS experience, making it the best fit."}')
+
+===== 5 JOBS FOUND =====
+[
+  {
+    "title": "Junior .NET Backend Engineer \u2014 Remote-Ready",
+    "company": "Metrc LLC",
+    "location": "United States",
+    "description": "Metrc LLC is seeking a motivated Backend .NET Engineer to support scalable server-side systems and APIs. You will work with .NET technologies and C# to build secure, high-performance services, collaborating with experienced engineers in a fast-paced, growth-oriented company.\n\nThe role emphasizes learning, code quality, and contributing to RESTful services, while partnering with front-end teams and database developers to ensure reliable, scalable solutions.",
+    "apply_link": "https://www.jobleads.com/us/job/junior-net-backend-engineer-remote-ready--united-states--ef07c04963bc2563daf44ffefd15c4fa9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+  },
+  {
+    "title": "Remote Junior Backend Engineer \u2014 Coding Career",
+    "company": "vacancy global pro",
+    "location": "Anywhere",
+    "description": "\u2022 Position Remote Junior Backend Engineer \u2014 Grow Your Coding Career \u2014 Location reputed company \u2014 Launch Your Backend Developer Career Remotely (US)! ($65K-$75K) \u2014 Do you reputed company of writing reputed company, optimizing apps, and collaborating on exciting reputed company? Join our remote team! We\u2019re looking for a Junior Backend Engineer to \u2022 Collaborate on designing,developing,and maintaining our backend systems. \u2022 Write clean,efficient reputed company and troubleshoot issues to reputed company our applications running smoothly. \u2022 Learn and grow your backend development skills in a supportive environment. \u2022 You\u2019re a great fit if you have \u2022 1+ years of backend development experience. \u2022 A Bachelor\u2019s degree in Computer Science,Engineering,or a reputed company field (or equivalent experience). \u2022 Strong understanding of backend development concepts and at least one programming language (Python,Java,reputed company). \u2022 Experience with web frameworks and relational databases (SQL queries). \u2022 Bonus points for \u2022 reputed company platform experience (AWS,Azure,reputed company reputed company). \u2022 Experience with No \u2022 SQL databases,containerization,CI/CD pipelines,or reputed company-end technologies. \u2022 reputed company-reputed company project contributions or personal coding reputed company. \u2022 Why this remote job is for you \u2022 Competitive salary ($65,000 \u2013 $75,000). \u2022 Work from reputed company in the US! \u2022 Grow your skills with a supportive and reputed company team. \u2022 Be part of a comp",
+    "apply_link": "https://vacancyglobalpro.up.railway.app/job/remote-junior-backend-engineer-coding-career-5?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+  },
+  {
+    "title": "Junior Backend Engineer - Customer Identity",
+    "company": "N26",
+    "location": "United States",
+    "description": "About the opportunity\n\n\nBanking Foundations domain mission for N26 is to provide secure and compliant banking services that are frictionless and innovative for customers, while enabling efficient operations and informed decision-making for our staff.\n\n\nWe achieve this through robust customer identity verification, proactive risk management, and seamless customer support. This foundation enables N26 to achieve sustainable growth while maintaining the highest levels of trust with our customers and regulators.\n\n\nThe Customer Identity segment is central to this mission. We own the full identity verification stack that powers N26's customer onboarding \u2014 from KYC verification orchestration and provider integrations (video identification, document verification, biometric screening) to the regulatory compliance checks that keep our banking licence in good standing. Our systems operate at scale across multiple European markets,processing high volumes of verifications while meeting strict AML, KYC, and GDPR requirements.\n\n\nWe are currently in an active architectural modernisation phase: consolidating our provider integration layer, hardening our orchestration service, and rationalising domain ownership across teams \u2014 giving engineers meaningful work on systems that directly affect every new N26 customer.\n\n\nOur cross-functional teams are passionate about collaboration and sharing knowledge, as well as working with a high degree of autonomy.\n\n\nAs a Backend Engineer at N26, you will be en",
+    "apply_link": "https://www.jobleads.com/us/job/junior-backend-engineer-customer-identity--barcelona--ebff7613f97041d874441efc7d6a520c5?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+  },
+  {
+    "title": "Junior Backend Engineer",
+    "company": "Aspect AI",
+    "location": "Call, TX",
+    "description": "We are looking for a motivated and enthusiastic Junior Backend Engineer to join our development team. As a Junior Backend Engineer, you will assist in building and maintaining the server-side components of our SaaS dashboard product.\n\n\nYou will work under the guidance of senior engineers to develop, test, and deploy scalable and reliable backend solutions.\n\n\nWhat you will do\n\n\n\nAssist in the development of server-side logic, APIs, and databases for our SaaS dashboard product.\n\n\nCollaborate with senior engineers to design and implement new features and enhancements.\n\n\nWrite clean, maintainable, and efficient code while following best practices and coding standards.\n\n\nParticipate in code reviews, testing, and debugging to ensure high-quality deliverables.\n\n\nContribute to the optimization of backend performance and scalability.\n\n\nWork closely with frontend developers to integrate backend services with user-facing applications.\n\n\nStay current with emerging technologies and industry trends to continually improve backend development practices.\n\n\n\nOur tech stack\n\n\n\nProgramming Languages: Python, Java, or Node.js\n\n\nFrameworks: Django, Spring Boot, or Express.js\n\n\nDatabases: PostgreSQL, MongoDB, or MySQL\n\n\nAPIs: RESTful APIs and GraphQL\nVersion Control: Git\n\n\nDeployment Tools: Docker, Heroku, or AWS\n\n\nTesting: Unit testing frameworks such as PyTest, JUnit, or Mocha\n\n\n\nWhat we offer\n\n\n\nCompetitive Salary with opportunities for performance-based bonuses.\n\n\nFlexible Working Hours and rem",
+    "apply_link": "https://bebee.com/us/jobs/junior-backend-engineer-aspect-ai-call--techmap_us_4448945198?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+  },
+  {
+    "title": "Junior Backend Engineer",
+    "company": "Patterned Learning AI",
+    "location": "San Francisco, CA",
+    "description": "Junior Backend Engineer , Full-Time, Salary $70K - $80K\n\n\nMinimum 1 year of work experience - Remote (US/Canada Residing people only, with work permit)\n\n\nAbout us: The Future of AI is Patterned We are a stealth-mode technology startup that is revolutionizing the way AI is used. Our platform uses pattern recognition to train AI models that are more accurate, efficient, and robust than ever before.\n\n\nWe are backed by top investors, including Sequoia and Andreessen Horowitz, and we are hiring for almost everything! If you are passionate about AI and want to be a part of something big, then we want to hear from you.\n\n\nHere are some of the benefits of working at Patterned Learning AI: Work with world-renowned experts in AI, machine learning, and pattern recognition. Solve some of the world's most pressing problems using AI.\n\n\nMake a positive impact on the world. Be a part of a fast-growing startup. If you are interested in learning more, please visit our website.\n\n\nWe are looking for people who are:\n\n\nPassionate about AI.\n\n\nExcellent problem solvers.\n\n\nTeam players.\n\n\nDriven to succeed.\n\n\nJob Summary:\nWe are seeking a highly motivated Junior Backend Engineer to join our team. In this role, you will collaborate with a cross-functional team of developers, designers, and product managers to build and maintain scalable and efficient backend systems. You will play a key role in implementing new features, optimizing performance, and ensuring the reliability of our applications.\n\n\nThis i",
+    "apply_link": "https://bebee.com/us/jobs/junior-backend-engineer-patterned-learning-ai-san-francisco--ss-us-10rl790?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+  }
+]
+
+Email successfully sent to candidate@example.com
+(venv) PS C:\Users\geetharam\Desktop\Capstone\Github\Part_4_Agentic_AI_system> 

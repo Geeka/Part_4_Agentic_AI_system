@@ -50,24 +50,66 @@ create_tool_calling_agent/AgentExecutor (Option A) and CrewAI's agent runtime (O
 tool_calls, or CrewAI's tool-usage log) and extract the resolved tool name and parsed arguments from it; (b) print/log that as an explicit {"tool": ...,
 "arguments": {...}} object at the moment of each call; (c) include at least one real captured example of this logged object per demonstrated query in the README, as evidence that the routing decision is structured and inspectable.
 
-The crewai framework's native tool-call representation is logged in the agents_outputs.json file. The log includes the resolved tool name and parsed arguments for each tool call made by the agents.
+The crewai framework's native tool-call representation is logged in the agents_outputs.json file. The log includes the resolved tool name and parsed arguments for each tool call made by the agents. the sample log taken from software_engineer_output.txt is as follows:
 
+
+```
+[TOOL CALL] {"tool": "job_search", "arguments": {"query": "junior backend engineer"}, "agent_role": "Manager Agent"}
+Tool job_search executed with result: [{"title": "Junior .NET Backend Engineer \u2014 Remote-Ready", "company": "Metrc LLC", "location": "United States", "description": "Metrc LLC is seeking a motivated Backend .NET Engineer to support sc...
+[Finalize] todos_count=0, todos_with_results=0
+```
+
+## Outputs for 3 different resumes
+
+The output of the entire crew process successfully ran with 3 different resumes
+
+Entry level data analyst resume and output
+[resume.txt](resume.txt)
+
+Output of the entire crew process successfully ran with the entry level data analyst resume
+[output.txt](output.txt)
+
+Marketing Analyst Resume and Output
+[resume_marketing_analyst.txt](resume_marketing_analyst.txt)
+
+Output of the entire crew process successfully ran with the marketing analyst resume
+[marketing_analyst_output.txt](marketing_analyst_output.txt)
+
+
+Software Engineer Resume and Output
+[resume_software_engineer.txt](resume_software_engineer.txt)
+
+Output of the entire crew process successfully ran with the software engineer resume
+[software_engineer_output.txt](software_engineer_output.txt)
+
+The entire run outputs are stored in the corresponding output files.
 
 
 4.	Demonstrate the full loop on at least three distinct user queries or tasks , each exercising at least one of your tools. For each, record in the README: the query/task, which tool(s) were called with which arguments, and the final answer produced.
-Option B — CrewAI multi-agent crew
-1.	Define at least two agents, each with a distinct role, goal, and backstory reflecting a specialised skill (e.g., an investigator agent that gathers facts via tools, and a writer agent that drafts output from those facts).
-2.	Define at least two Task objects (description + expected_output), each assigned to one agent, where at least one task's output is explicitly passed as context/input to a later task (a task handoff).
-3.	Assemble a Crew and run it once using Process.sequential. Then run the same or an extended crew a second time using Process.hierarchical with a manager agent that delegates to your specialist agents. In the README, briefly compare what differed between the sequential run and the hierarchical run (who decided the task order, and whether the outputs differed).
-4.	Set allow_delegation=True on at least one agent, and in the README either show a concrete example where that agent used delegation to get help from a teammate midtask, or explain clearly why delegation was not triggered in your run.
-Acceptance criteria (your submission is complete when…)
-●	At least two tools exist, at least one calling a real external API; each is documented in the README's tool-contract table with a read/write label.
-●	For every demonstrated tool call, the resolved {tool, arguments} decision is extracted from the framework's own native tool-calling mechanism (not hand-parsed from raw text) and a real logged example is shown in the README.
-●	The end-to-end loop is demonstrated on at least three distinct queries/tasks with tool calls, arguments, and final answers all recorded in the README.
-●	Option A: the agent is built with @tool-decorated functions, a tool-calling agent + AgentExecutor with bounded max_iterations; a 2-turn memory demonstration shows correct reuse of turn-1 information in turn 2; a separate
-o	RunnablePassthrough/RunnableBranch conditional workflow is implemented and its two possible routes are both shown running (e.g., by invoking it twice with inputs that trigger each branch).
-●	Option B: at least two agents (role/goal/backstory) and at least two tasks (with one handoff) are defined; both a sequential run and a hierarchical run (with a manager agent) are executed and compared in the README; at least one agent has allow_delegation=True, with the delegation outcome documented.
-●	No API key appears anywhere in the repository; required environment-variable names are documented in the README.
-Submission
-Submit one public GitHub repository link. The repository must contain the agent implementation, all tool definitions, a recorded trace of your end-to-end demonstration runs, and a README.md covering every point in the acceptance criteria (including which option you chose and why).
+
+
+The hierarchical and sequential run are done in the same run
+
+allow_delegation=true is allotted to manager agent
+
+## Sequential vs. Hierarchical — Observed Comparison
+
+**Task routing / delegation**
+- Sequential: tasks always execute in the fixed order defined (analyze_resume_task -> search_task), with each agent doing exactly its assigned task. No routing decision involved.
+- Hierarchical: in every run observed, jobs_manager did not delegate to resume_analyst/search_agent as separate actors -- it called get_resume and job_search directly itself, appearing in logs as "agent_role": "Manager Agent". Despite allow_delegation=True, no delegate_work_to_coworker call appeared in the two-agent runs -- the manager simply executed the work in-role rather than routing it out.
+
+**Tool-call reliability**
+- Sequential run (marketing analyst query): the Search Agent hallucinated a nonexistent tool name (job_search_channel_commentary) partway through, and its final answer discarded all search results, returning an empty search_results: [] despite two legitimate job_search calls having fired.
+- Hierarchical runs (data scientist queries): no hallucinated tool names observed in any hierarchical run; tool calls stayed to get_resume and job_search only.
+- Based on available data, hierarchical mode showed no repeat instances of this specific hallucination failure, while sequential did -- though sample size is small (one clear instance) and this may not generalize.
+
+**Number of search calls per run**
+- Sequential: ranged from 1 call up to 4 calls in a single task execution (e.g. "entry-level data scientist", then 3 geography-variant retries), driven entirely by the agent's own judgment since no call-count instruction is given.
+- Hierarchical: consistently 1 call per run across every hierarchical log observed ("junior data scientist" once, no retries or variant queries).
+- Hierarchical was more token/cost-efficient on search calls in every run observed; sequential's agent showed more variable, sometimes redundant search behavior.
+
+**Job selection quality / spam filtering**
+- Sequential run results included multiple SynergisticIT/staffing-mill spam listings selected as the "best fit," with the agent's own stated reasoning factually inconsistent with the listing it picked (claimed it was "the only posting that explicitly mentions a data scientist role" while the listing itself was generic staffing-mill copy).
+- Hierarchical run selected Eliassen Group -- a substantive listing with concrete requirements -- over the same SynergisticIT postings that appeared in its own search results, correctly avoiding the spam pick that sequential mode selected in a comparable run.
+- In the runs observed, hierarchical mode produced better spam-filtering outcomes than sequential -- but again only one
 
