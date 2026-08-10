@@ -3,7 +3,7 @@
 ## GOAL: Build a multi agent job search crewai system that 
 - reads a local resume, extracts relevant information and derives a search query
 - searches for jobs using a free job search API and selects one most relevant job from 5 outputs obtained   , and
-- sends email to the user with the selected job and a reason for selection, along with 5 job listings with an apply link for each job listing. The email also includes a draft resume and cover letter for the selected job.
+- sends email to the user with the selected job and a reason for selection, along with 5 job listings with an apply link for each job listing. The email also includes a draft resume and cover letter for the selected job.(not implemented yet)
 
 - drafts resume and cover letter for the selected job (the final output is sent to the user via email using deterministic templates)
 
